@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="robots" content="noindex,nofollow" />
+<meta name="keywords" content="RushForBerlin:Editor Tutorial,Editor Tutorial/Blockmap Editor,Editor Tutorial/Building Placer,Editor Tutorial/Creating and Loading a Map,Editor Tutorial/Effect Placer,Editor Tutorial/General Functions for Placers,Editor Tutorial/Heightmap Editor,Editor Tutorial/Keyboard and Mouse,Editor Tutorial/Lake and Ocean Placer,Editor Tutorial/Light and Shadow Editor,Editor Tutorial/Object Placer" />
+<link rel="shortcut icon" href="/favicon.ico" />
+		<title>RushForBerlin:Editor Tutorial - StormWiki</title>
+		<style type="text/css" media="screen,projection">/*<![CDATA[*/ @import "/wiki/skins/monobook/main.css?7"; /*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wiki/skins/common/commonPrint.css" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wiki/skins/monobook/IE50Fixes.css";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wiki/skins/monobook/IE55Fixes.css";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wiki/skins/monobook/IE60Fixes.css";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wiki/skins/monobook/IE70Fixes.css?1";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/wiki/skins/common/IEFixes.js"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		<script type="text/javascript">var skin = 'monobook';var stylepath = '/wiki/skins';</script>
+		<script type="text/javascript" src="/wiki/skins/common/wikibits.js"><!-- wikibits js --></script>
+		<script type="text/javascript" src="/wiki/index.php?title=-&amp;action=raw&amp;gen=js"><!-- site js --></script>
+		<style type="text/css">/*<![CDATA[*/
+@import "/wiki/index.php?title=MediaWiki:Common.css&action=raw&ctype=text/css&smaxage=18000";
+@import "/wiki/index.php?title=MediaWiki:Monobook.css&action=raw&ctype=text/css&smaxage=18000";
+@import "/wiki/index.php?title=-&action=raw&gen=css&maxage=18000";
+/*]]>*/</style>
+		<!-- Head Scripts -->
+			</head>
+<body  class="ns-100 ltr">
+	<div id="globalWrapper">
+		<div id="column-content">
+	<div id="content">
+		<a name="top" id="top"></a>
+				<h1 class="firstHeading">RushForBerlin:Editor Tutorial</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From StormWiki</h3>
+			<div id="contentSub">Revision as of 15:25, 25 September 2006; view current revision<br /><a href="/wiki/index.php?title=RushForBerlin:Editor_Tutorial&amp;direction=prev&amp;oldid=1819" title="RushForBerlin:Editor Tutorial">←Older revision</a> | Newer revision→</div>
+									<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<p><a href="/wiki/index.php/RushForBerlin:Main" title="RushForBerlin:Main">Return to Rush For Berlin Main Page</a>
+</p><p><br />
+</p>
+<a name="Tutorial"></a><h2> Tutorial </h2>
+<p><br />
+</p><p>These are the chapters you can choose from in the tutorial
+</p><p><br />
+<b>1. Getting Started</b>
+</p><p>1a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Creating_and_Loading_a_Map" title="RushForBerlin:Editor Tutorial/Creating and Loading a Map">Creating and Loading a Map</a>
+</p><p><b>2. Brief Overview of all Tools</b>
+</p><p>2a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Tools_Available_in_Top_Toolbar" title="RushForBerlin:Editor Tutorial/Tools Available in Top Toolbar">Tools Available in Top Toolbar</a>
+</p><p><b>3. The Editors</b>
+</p><p>3a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Heightmap_Editor" title="RushForBerlin:Editor Tutorial/Heightmap Editor">Heightmap Editor</a>
+</p><p>3b. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Blockmap_Editor" title="RushForBerlin:Editor Tutorial/Blockmap Editor">Blockmap Editor</a>
+</p><p>3c. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Road_and_Edge_Editor" title="RushForBerlin:Editor Tutorial/Road and Edge Editor">Road and Edge Editor</a>
+</p><p>3d. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/River_Editor" title="RushForBerlin:Editor Tutorial/River Editor">River Editor</a>
+</p><p>3e. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Wire_Connection_Editor" title="RushForBerlin:Editor Tutorial/Wire Connection Editor">Wire Connection Editor</a>
+</p><p>3f. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Light_and_Shadow_Editor" title="RushForBerlin:Editor Tutorial/Light and Shadow Editor">Light and Shadow Editor</a>
+</p><p><b>4. The Placers</b>
+</p><p><a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/General_Functions_for_Placers" title="RushForBerlin:Editor Tutorial/General Functions for Placers">General Functions for Placers</a>
+</p><p>4a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Shader_Texture_Placer" title="RushForBerlin:Editor Tutorial/Shader Texture Placer">Shader Texture Placer</a>
+</p><p>4b. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Object_Placer" title="RushForBerlin:Editor Tutorial/Object Placer">Object Placer</a>
+</p><p>4c. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Unit_Placer" title="RushForBerlin:Editor Tutorial/Unit Placer">Unit Placer</a>
+</p><p>4d. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Building_Placer" title="RushForBerlin:Editor Tutorial/Building Placer">Building Placer</a>
+</p><p>4e. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Sound_Effect_Placer" title="RushForBerlin:Editor Tutorial/Sound Effect Placer">Sound Effect Placer</a>
+</p><p>4f. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Lake_and_Ocean_Placer" title="RushForBerlin:Editor Tutorial/Lake and Ocean Placer">Lake and Ocean Placer</a>
+</p><p>4g. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Effect_Placer" title="RushForBerlin:Editor Tutorial/Effect Placer">Effect Placer</a>
+</p><p><b>5. Creating Triggers</b>
+</p><p>5a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Trigger_Basics" title="RushForBerlin:Editor Tutorial/Trigger Basics">Trigger Basics</a>
+</p><p>5b. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Trigger_MP_Map" title="RushForBerlin:Editor Tutorial/Trigger MP Map">Setting up an MP Map</a>
+</p><p>5c. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Trigger_Examples" title="RushForBerlin:Editor Tutorial/Trigger Examples">Trigger Examples</a>
+</p><p>5d. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Trigger_Advanced" title="RushForBerlin:Editor Tutorial/Trigger Advanced">Trigger Advanced</a>
+</p><p><b>6. Using the Keyboard</b>
+</p><p>6a. <a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/Keyboard_and_Mouse" title="RushForBerlin:Editor Tutorial/Keyboard and Mouse">Keyboard/Mouse Commands</a>
+</p><p><br />
+</p><p><br />
+<a href="/wiki/index.php/RushForBerlin:Editor_Tutorial/User" title="RushForBerlin:Editor Tutorial/User">General User Advice</a>
+</p><div class="printfooter">
+Retrieved from "<a href="http://www.stormregion.com/wiki/index.php/RushForBerlin:Editor_Tutorial">http://www.stormregion.com/wiki/index.php/RushForBerlin:Editor_Tutorial</a>"</div>
+						<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	</div>
+		</div>
+		<div id="column-one">
+	<div id="p-cactions" class="portlet">
+		<h5>Views</h5>
+		<ul>
+				 <li id="ca-nstab-rushforberlin" class="selected"><a href="/wiki/index.php/RushForBerlin:Editor_Tutorial">RushForBerlin</a></li>
+				 <li id="ca-talk" class="new"><a href="/wiki/index.php?title=RushForBerlin_Talk:Editor_Tutorial&amp;action=edit">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/wiki/index.php?title=RushForBerlin:Editor_Tutorial&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/wiki/index.php?title=RushForBerlin:Editor_Tutorial&amp;action=history">History</a></li>
+		</ul>
+	</div>
+	<div class="portlet" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul>
+				<li id="pt-login"><a href="/wiki/index.php?title=Special:Userlogin&amp;returnto=RushForBerlin:Editor_Tutorial">Log in / create account</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wiki/skins/common/images/stormlogo.gif);" href="/wiki/index.php/Main_Page" title="Main Page"></a>
+	</div>
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+		<div class='portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/wiki/index.php/Main_Page">Main Page</a></li>
+				<li id="n-portal"><a href="/wiki/index.php/StormWiki:Community_Portal">Community portal</a></li>
+				<li id="n-currentevents"><a href="/wiki/index.php/Current_events">Current events</a></li>
+				<li id="n-recentchanges"><a href="/wiki/index.php/Special:Recentchanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/wiki/index.php/Special:Random">Random page</a></li>
+				<li id="n-help"><a href="/wiki/index.php/Help:Contents">Help</a></li>
+				<li id="n-sitesupport"><a href="/wiki/index.php/StormWiki:Site_support">Donations</a></li>
+			</ul>
+		</div>
+	</div>
+		<div id="p-search" class="portlet">
+		<h5><label for="searchInput">Search</label></h5>
+		<div id="searchBody" class="pBody">
+			<form action="/wiki/index.php/Special:Search" id="searchform"><div>
+				<input id="searchInput" name="search" type="text" accesskey="f" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" value="Search" />
+			</div></form>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/wiki/index.php/Special:Whatlinkshere/RushForBerlin:Editor_Tutorial">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/wiki/index.php/Special:Recentchangeslinked/RushForBerlin:Editor_Tutorial">Related changes</a></li>
+<li id="t-upload"><a href="/wiki/index.php/Special:Upload">Upload file</a></li>
+<li id="t-specialpages"><a href="/wiki/index.php/Special:Specialpages">Special pages</a></li>
+				<li id="t-print"><a href="/wiki/index.php?title=RushForBerlin:Editor_Tutorial&amp;oldid=1819&amp;printable=yes">Printable version</a></li>				<li id="t-ispermalink">Permanent link</li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/wiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a></div>
+			<ul id="f-list">
+				<li id="privacy"><a href="/wiki/index.php/StormWiki:Privacy_policy" title="StormWiki:Privacy policy">Privacy policy</a></li>
+				<li id="about"><a href="/wiki/index.php/StormWiki:About" title="StormWiki:About">About StormWiki</a></li>
+				<li id="disclaimer"><a href="/wiki/index.php/StormWiki:General_disclaimer" title="StormWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+	<script type="text/javascript"> if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served by hans.stormregion.com in 0.27 secs. -->
+</body></html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.stormregion.com/wiki/skins/common/feed.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://www.stormregion.com/wiki/index.php?title=Special:Recentchanges&amp;limit=250&amp;feed=atom</id>
+		<title>StormWiki - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="http://www.stormregion.com/wiki/index.php?title=Special:Recentchanges&amp;limit=250&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="http://www.stormregion.com/wiki/index.php/Special:Recentchanges"/>
+		<updated>2007-02-25T02:15:17Z</updated>
+		<subtitle>Track the most recent changes to the wiki on this page.</subtitle>
+		<generator>MediaWiki 1.6.6</generator>
+
+	<entry>
+		<id>http://www.stormregion.com/wiki/index.php/Off_Topic</id>
+		<title>Off Topic</title>
+		<link rel="alternate" type="text/html" href="http://www.stormregion.com/wiki/index.php/Off_Topic"/>
+				<updated>2007-02-20T21:30:04Z</updated>
+		
+		<summary type="html">&lt;p&gt;FileFront Mirrors for Codename Panzers files&lt;/p&gt;
+
+			&lt;table border='0' width='98%' cellpadding='0' cellspacing='4' style=&quot;background-color: white;&quot;&gt;
+			&lt;tr&gt;
+				&lt;td colspan='2' width='50%' align='center' style=&quot;background-color: white;&quot;&gt;Revision as of 21:30, 20 February 2007&lt;/td&gt;
+				&lt;td colspan='2' width='50%' align='center' style=&quot;background-color: white;&quot;&gt;Current revision&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;&lt;td colspan=&quot;2&quot; align=&quot;left&quot;&gt;&lt;strong&gt;Line 1:&lt;/strong&gt;&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; align=&quot;left&quot;&gt;&lt;strong&gt;Line 1:&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;This page is unlocked and unprotected. Use it to post information that would interest other Stormregion community members. &lt;/span&gt;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Hello everyone!&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;td&gt; &lt;/td&gt;&lt;td style=&quot;background: #eee; font-size: smaller;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;-&lt;/td&gt;&lt;td style=&quot;background: #ffa; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;For instance, links &lt;/span&gt;to &lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;World War II&lt;/span&gt;, &lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Real Time Strategy games etc&lt;/span&gt;. &lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;are welcome&lt;/span&gt;.&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;FileFront has the following Codename: Panzers files hosted for you &lt;/span&gt;to &lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;use as mirror links.&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;File Name:&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Codename: Panzers Phase Two 1.06 - 1.07 Patch&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;File Path:&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;http://files.filefront.com/Codename+Panzers+Phase+Two+106+++107+Patch/;6777214;;/fileinfo.html        &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;File Name:&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Codename: Panzers Patch 1.10 - 1.20&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;File Path:&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;http://files.filefront.com/Codename+Panzers+Patch+110+++120/;6777235;;/fileinfo.html      &lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Cheers&lt;/span&gt;,&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Cecelia Fresh&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Senior File Editor/PR, FileFront&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;Ziff Davis Media Game Group&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;(303) 325-7733 (Office)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;(303) 944-9959 (Mobile)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;www.filefront&lt;/span&gt;.&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;com&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;cecelia@filefront&lt;/span&gt;.&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;com&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&amp;#160;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td colspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;&lt;td&gt;+&lt;/td&gt;&lt;td style=&quot;background: #cfc; font-size: smaller;&quot;&gt;&lt;span style=&quot;color: red; font-weight: bold;&quot;&gt;AIM: Fr3shc0M&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;
+
+			&lt;/table&gt;
+		</summary>
+		<author><name>Fr3shc0M</name></author>	</entry>
+
+	</feed>

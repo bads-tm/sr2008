@@ -1,0 +1,516 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=8683cfb9534622a154fdb33c66e89fc7" title="StormRegion.com Forum Index" />
+<link rel="search" href="./search.php?sid=8683cfb9534622a154fdb33c66e89fc7" title="Search" />
+<link rel="help" href="./faq.php?sid=8683cfb9534622a154fdb33c66e89fc7" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=8683cfb9534622a154fdb33c66e89fc7" title="Memberlist" />
+<link rel="up" href="index.php?sid=8683cfb9534622a154fdb33c66e89fc7" title="StormRegion.com Forum Index" />
+
+<title>StormRegion.com :: View Forum - Multiplayer issues</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E5E5E5;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+.loginText{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #000000;
+  font-style: normal
+}
+.myTRClass{color: #FFFFFF;}
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 0px #B2B2B2 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #DCDCDC; }
+td.row2	{ background-color: #C3C4C5; }
+td.row3	{ background-color: #D1D7DC; }
+td.row4	{ background-color: #C3C4C5; }
+td.row5	{ background-color: #45709F; }
+.row6 {background-color: #45709F;
+		 color: #FFFFFF}
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/newimages/emptyRowBG.gif);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFFFFF; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/newimages/mainRowBG.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 31px;
+}
+td.rowWhite{
+		background-image: url(templates/subSilver/newimages/mainRowLighterBG.gif);
+		background-color:#D1D7DC; border: #FFFFFF; height: 16px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold;
+	border: #FFFFFF; border-style: solid; height: 16px;
+	background-image: url(templates/subSilver/newImages/forumHeader.gif);
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #00659C; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #00659C; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #FFFFFF}
+a.cattitle		{ text-decoration: none; color : #FFFFFF; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+.adminNav		{ font-weight: bold; font-size: 11px; color : #FFFFFF;}
+a.nav			{ text-decoration: none; color : #000000; }
+a.adminNav			{ text-decoration: none; color : #FFFFFF; }
+a.nav:hover		{ text-decoration: underline; }
+a.adminNav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+.adminName	{ font-size : 11px; color : #FFFFFF;}
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+.adminPostDetails  		{ font-size : 10px; color : #FFFFFF; }
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+.postAdminBody { color : #FFFFFF; font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+
+.adminQuote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body topmargin = '0' leftmargin = '0' bottommargin = '0' rightmargin = '0' bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4" background = 'images/bgTile.gif'>
+<map name="map1">
+<area shape = "rect" coords ="0,0,160,20"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map2">
+<area shape ="rect" coords ="0,0,160,18"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map3">
+<area shape ="rect" coords ="0,0,140,19"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map4">
+<area shape ="rect" coords ="0,0,110,19"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<a name="top"></a>
+
+<table width="1000" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#E5E5E5">
+	<tr>
+		<td class="bodylie"><table width="1000" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td>
+<table cellpadding = '0' cellspacing = '0' border = '0' width = '1000' height = '119'>
+<tr>
+	<td width = '855' height = '119'><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '119'>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '36'>
+				<tr>
+					<td width = '308'><a href = '../index.php?sid=&activeMenuID=-1&activeProjectID=-1'><img src = '../templates/base/images/header/headerTop1.gif' border = '0'></a></td>
+					<td width = '547' background = '../templates/base/images/header/headerTop2.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '15'>
+				<tr>
+					<td width = '320'><a href = '../index.php?sid=&activeMenuID=-1&activeProjectID=-1'><img src = '../templates/base/images/header/headerMiddle1.gif' border = '0'></a></td>
+					<td width = '535' background = '../templates/base/images/header/headerMiddle2.gif'><div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='../index.php?sid=&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='../index.php?sid=&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='../index.php?sid=&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='../index.php?sid=&amp;activeMenuID=press'>Press</a></ul></li><li><a href='../index.php?sid=&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='../index.php?sid=&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='../index.php?sid=&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='../index.php?sid=&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='../forum/index.php?sid=&amp;'>Forum</a></li><li><a href='../index.php?sid=&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Mods</a></li><li><div style='clear:left;'></div></ul></div><script language="JavaScript" src="../menu/imenus_data.js"></script><script language="JavaScript" src="../menu/imenus_code.js"></script></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '20'>
+				<tr>
+					<td width = '855'><img src = '../templates/base/images/header/headerBottom.gif' usemap = '#map1' border = '0'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '18'>
+				<tr>
+					<td width = '169'><img src = '../templates/base/images/header/headerTitle1.gif' usemap = '#map2' border = '0'></td>
+					<td><img src = '../templates/base/images/header/titles/headerBottomForum.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '19'>
+				<tr>
+					<td width = '161'><img src = '../templates/base/images/header/headerNavigator1.gif' usemap = '#map3' border = '0'></td>
+					<td width = '678' background = '../templates/base/images/header/headerNavigator2.gif' class = 'navigation' align = 'left' valign = 'middle'></td>
+					<td width = '16'><img src = '../templates/base/images/header/headerNavigator3.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '11'>
+				<tr>
+					<td width = '213'><img src = '../templates/base/images/header/headerFooter1.gif' usemap = '#map4' border = '0'></td>
+					<td width = '573' background = '../templates/base/images/header/headerFooter2.gif'></td>
+					<td width = '69'><img src = '../templates/base/images/header/headerFooter3.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		</table></td>
+	<td width = '145' height = '119' background = '../templates/base/images/header/header2.gif'><table cellpadding = '0' cellspacing = '0' border = '0' width = '145' height = '119'>
+		<tr>
+			<td height = '67'>&nbsp;</td>
+		</tr>
+		<tr>
+			<td height = '33' align = 'center' valign = 'middle' class = 'loginText'><b>Logged In:</b><br></td>
+		</tr>
+		<tr>
+			<td height = '19' align = 'center' valign = 'top' class = 'loginText'>May 15, 2006, 11:45 pm</td>
+		</tr>
+		</table></td>
+</tr>
+</table>
+
+				<center>
+				<table cellpadding = '0' cellspacing = '0' border = '0' width = '100%'><tr><td width = '50%'></td><td>
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tr><td height = '10'></td></tr>
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3" />Search<!--</a>&nbsp; &nbsp;<a href="memberlist.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3" />Memberlist</a>-->&nbsp; &nbsp;<a href="groupcp.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+					<!--	&nbsp;<a href="profile.php?mode=register&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;-->
+						&nbsp;<a href="../index.php?sid=&activeMenuID=login" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;&nbsp;</span>
+						</td>
+					</tr>
+					<tr><td height = '5'></td></tr>
+					<tr>
+						<td height = '1' bgcolor = '#B2B2B2'></td>
+					</tr>
+				</table>
+				</td><td align = 'right' valign = 'bottom' width = '50%'>
+				<a href="search.php?search_id=unanswered&sid=" class="gensmall">View unanswered posts</a>
+
+
+
+				</td></tr></table>
+				</center>
+
+
+
+				</td>
+			</tr>
+		</table>
+
+
+<form method="post" action="viewforum.php?f=7&amp;start=0&amp;sid=8683cfb9534622a154fdb33c66e89fc7">
+  <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+	<tr>
+	  <td align="left" valign="bottom" colspan="2"><a class="maintitle" href="viewforum.php?f=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Multiplayer issues</a></td>
+	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b>Moderator: <a href="groupcp.php?g=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Stormregion</a></b></span></td>
+<!--	  <td align="right" valign="bottom" nowrap="nowrap"><span class="gensmall"><b></b></span></td>-->
+	</tr>
+	<tr>
+	  <!--<td align="left" valign="middle" width="50"><a href="posting.php?mode=newtopic&amp;f=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7"><img src="templates/subSilver/images/lang_english/post.gif" border="0" alt="Post new topic" /></a></td>-->
+	  <td colspan = '2' align="left" valign="middle" class="nav" width="100%"><span class="nav"><a href="index.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="nav">StormRegion.com Forum Index</a> -> <a class="nav" href="viewforum.php?f=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Multiplayer issues</a></span></td>
+	  <td align="right" valign="bottom" class="nav" nowrap="nowrap"><span class="gensmall"><a href="viewforum.php?f=7&amp;mark=topics&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Mark all topics read</a></span></td>
+	</tr>
+  </table>
+
+  <table border="0" cellpadding="4" cellspacing="1" width="100%" class="forumline">
+	<tr>
+	  <th colspan="2" align="center" height="25" class="thCornerL" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	  <th width="100" align="center" class="thTop" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	  <th width="50" align="center" class="thTop" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	  <th align="center" class="thCornerR" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+	</tr>
+	<tr>
+	  <td class="row5" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=132&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="topictitle">Multiplayer not creating map ?</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">8</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=506&amp;sid=8683cfb9534622a154fdb33c66e89fc7">sergeant</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">594</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Apr 21, 2006 1:50 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8683cfb9534622a154fdb33c66e89fc7">[SR]Caveman</a> <a href="viewtopic.php?p=564&amp;sid=8683cfb9534622a154fdb33c66e89fc7#564"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=108&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="topictitle">Multiplayer Start Error</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=381&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Nameroc</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">355</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Feb 13, 2006 7:17 am<br /><a href="profile.php?mode=viewprofile&amp;u=381&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Nameroc</a> <a href="viewtopic.php?p=444&amp;sid=8683cfb9534622a154fdb33c66e89fc7#444"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=79&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="topictitle">S.W.I.N.E ports</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">1</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=224&amp;sid=8683cfb9534622a154fdb33c66e89fc7">DirtyDawg</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">516</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Jan 15, 2006 8:15 pm<br /><a href="profile.php?mode=viewprofile&amp;u=78&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Gergov</a> <a href="viewtopic.php?p=395&amp;sid=8683cfb9534622a154fdb33c66e89fc7#395"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row5" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=52&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="topictitle">Problem with MOD online</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">5</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=73&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Skinny</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">902</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 21, 2005 3:28 pm<br /><a href="profile.php?mode=viewprofile&amp;u=73&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Skinny</a> <a href="viewtopic.php?p=258&amp;sid=8683cfb9534622a154fdb33c66e89fc7#258"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="row1" align="center" valign="middle" width="20"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	  <td class="row1" width="100%"><span class="topictitle"><a href="viewtopic.php?t=55&amp;sid=8683cfb9534622a154fdb33c66e89fc7" class="topictitle">error when loading</a></span><span class="gensmall"><br />
+		</span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	  <td class="row3" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=113&amp;sid=8683cfb9534622a154fdb33c66e89fc7">paksdm</a></span></td>
+	  <td class="row2" align="center" valign="middle"><span class="postdetails">452</span></td>
+	  <td class="row3Right" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 07, 2005 4:55 am<br /><a href="profile.php?mode=viewprofile&amp;u=113&amp;sid=8683cfb9534622a154fdb33c66e89fc7">paksdm</a> <a href="viewtopic.php?p=213&amp;sid=8683cfb9534622a154fdb33c66e89fc7#213"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+	</tr>
+	<tr>
+	  <td class="rowWhite" align="center" valign="middle" colspan="6" height="28"><span class="genmed">Display topics from previous:&nbsp;<select name="topicdays"><option value="0" selected="selected">All Topics</option><option value="1">1 Day</option><option value="7">7 Days</option><option value="14">2 Weeks</option><option value="30">1 Month</option><option value="90">3 Months</option><option value="180">6 Months</option><option value="364">1 Year</option></select>&nbsp;
+		<input type="submit" class="liteoption" value="Go" name="submit" />
+		</span></td>
+	</tr>
+  </table>
+
+  <table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+	<tr>
+	  <td align="left" valign="middle" width="50"><span class="nav"><a href="posting.php?mode=newtopic&amp;f=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7">New&nbsp;Topic</a></span></td>
+<!--	  <td align="left" valign="middle" width="100%"><span class="nav">&nbsp;&nbsp;&nbsp;<a href="index.php?sid=8683cfb9534622a154fdb33c66e89fc7" class="nav">StormRegion.com Forum Index</a> -> <a class="nav" href="viewforum.php?f=7&amp;sid=8683cfb9534622a154fdb33c66e89fc7">Multiplayer issues</a></span></td>-->
+	  <td align="right" valign="middle" nowrap="nowrap"><span class="gensmall">All times are GMT</span><br /><span class="nav"></span>
+		</td>
+	</tr>
+	<tr>
+	  <td align="center" colspan="2"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+	</tr>
+  </table>
+</form>
+
+
+<table width="100%" cellspacing="0" border="0" align="center" cellpadding="0">
+	<tr>
+		<td align="left" valign="top"><table cellspacing="3" cellpadding="0" border="0">
+			<tr>
+				<td width="20" align="left"><img src="templates/subSilver/images/folder_new.gif" alt="New posts" width="19" height="18" /></td>
+				<td class="gensmall">New posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder.gif" alt="No new posts" width="19" height="18" /></td>
+				<td class="gensmall">No new posts</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_announce.gif" alt="Announcement" width="19" height="18" /></td>
+				<td class="gensmall">Announcement</td>
+			</tr>
+			<tr>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_new_hot.gif" alt="New posts [ Popular ]" width="19" height="18" /></td>
+				<td class="gensmall">New posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_hot.gif" alt="No new posts [ Popular ]" width="19" height="18" /></td>
+				<td class="gensmall">No new posts [ Popular ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td width="20" align="center"><img src="templates/subSilver/images/folder_sticky.gif" alt="Sticky" width="19" height="18" /></td>
+				<td class="gensmall">Sticky</td>
+			</tr>
+			<tr>
+				<td class="gensmall"><img src="templates/subSilver/images/folder_lock_new.gif" alt="New posts [ Locked ]" width="19" height="18" /></td>
+				<td class="gensmall">New posts [ Locked ]</td>
+				<td>&nbsp;&nbsp;</td>
+				<td class="gensmall"><img src="templates/subSilver/images/folder_lock.gif" alt="No new posts [ Locked ]" width="19" height="18" /></td>
+				<td class="gensmall">No new posts [ Locked ]</td>
+			</tr>
+		</table></td>
+		<td align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=8683cfb9534622a154fdb33c66e89fc7" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">General</option><option value="-1">----------------</option><option value="4">News</option><option value="8">Stormregion General</option><option value="12">Hungarian topics - Magyar nyelv&#369; témakörök</option><option value="-1">&nbsp;</option><option value="-1">Stormregion Games</option><option value="-1">----------------</option><option value="1">S.W.I.N.E.</option><option value="3">Panzers Phase 1</option><option value="2">Panzers Phase 2</option><option value="5">Rush for Berlin</option><option value="-1">&nbsp;</option><option value="-1">Support</option><option value="-1">----------------</option><option value="6">Single Player issues</option><option value="7">Multiplayer issues</option><option value="9">Modding and Customization</option></select><input type="hidden" name="sid" value="8683cfb9534622a154fdb33c66e89fc7" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+<span class="gensmall">You <b>cannot</b> post new topics in this forum<br />You <b>cannot</b> reply to topics in this forum<br />You <b>cannot</b> edit your posts in this forum<br />You <b>cannot</b> delete your posts in this forum<br />You <b>cannot</b> vote in polls in this forum<br /></span></td>
+	</tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br /></span></div>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+

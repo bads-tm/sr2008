@@ -1,0 +1,486 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>StormRegion.com</title><link rel='stylesheet' href='style-sheet/style.css' type='text/css'><link rel='shortcut icon' href='style-sheet/favicon.ico'><meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=iso-8859-1'></head><body style='margin: 0px;background-image: url(./templates/base/images/bgTile.gif)'><center><table cellpadding='0' cellspacing='0' border='0' width='1000' style='height:100%' bgcolor='#000000'><tr><td width='1000' height='119' colspan='3'><map name="map1">
+<area shape="rect" coords="0,0,160,20"
+  href ="index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map2">
+<area shape ="rect" coords="0,0,160,18"
+  href ="index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map3">
+<area shape ="rect" coords="0,0,140,19"
+  href ="index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map4">
+<area shape ="rect" coords="0,0,110,19"
+  href ="index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<table cellpadding='0' cellspacing='0' border='0' width='1000'>
+<tr>
+	<td width='855' height='119'><table cellpadding='0' cellspacing='0' border='0' width='855'>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='308' height='36'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src='./templates/base/images/header/headerTop1.gif' border='0' alt='' title=''></a></td>
+					<td width='547' style='background-image: url(./templates/base/images/header/headerTop2.gif)'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='320' height='15'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src='./templates/base/images/header/headerMiddle1.gif' border='0' alt='' title=''></a></td>
+					<td width='535' style='background-image: url(./templates/base/images/header/headerMiddle2.gif)'><div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=press'>Press</a></ul></li><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='forum/index.php?sid=119ea4197c417e4ab424817f44748874&amp;'>Forum</a></li><li><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Mods</a></li><li><div style='clear:left;'></div></ul></div><script type="text/javascript" src="menu/imenus_data.js"></script><script type="text/javascript" src="menu/imenus_code.js"></script></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='855' height='20'><img src='./templates/base/images/header/headerBottom.gif' usemap='#map1' border='0' alt='' title=''></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='169' height='18'><img src='./templates/base/images/header/headerTitle1.gif' usemap='#map2' border='0' alt='' title=''></td>
+					<td><img width='686' height='18' src='./templates/base/images/header/titles/headerBottomNews.gif' alt='' title=''></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='161' height='19'><img src='./templates/base/images/header/headerNavigator1.gif' usemap='#map3' border='0' alt='' title=''></td>
+					<td width='678' style='background-image: url(./templates/base/images/header/headerNavigator2.gif)' class='navigation' align='left' valign='middle'>Stormregion Info > News</td>
+					<td width='16'><img src='./templates/base/images/header/headerNavigator3.gif' alt='' title=''></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding='0' cellspacing='0' border='0' width='855'>
+				<tr>
+					<td width='213' height='11'><img src='./templates/base/images/header/headerFooter1.gif' usemap='#map4' border='0' alt='' title=''></td>
+					<td width='573' style='background-image: url(./templates/base/images/header/headerFooter2.gif)'></td>
+					<td width='69'><img src='./templates/base/images/header/headerFooter3.gif' alt='' title=''></td>
+				</tr>
+				</table></td>
+		</tr>
+		</table></td>
+		<td width='145' height='119' style='background-image: url(./templates/base/images/header/header2.gif)'><table cellpadding='0' cellspacing='0' border='0' width='145'>
+		<tr>
+			<td height='67'>&nbsp;</td>
+		</tr>
+		<tr>
+			<td height='33' align='center' valign='middle' class='days'></td>
+		</tr>
+		<tr>
+			<td height='19' align='center' valign='middle' class='timeRemaining'></td>
+		</tr>
+		</table></td>
+</tr>
+</table>
+</td></tr><tr><td width='144' height='100%' valign='top' style='background-image: url(./templates/base/images/leftBG.gif)' align='left'><img src='./templates/base/images/poll/pollHeader.gif' alt='' title=''><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#305172'><form action='redirect.php?sid=119ea4197c417e4ab424817f44748874&amp;action=saveVote' method='post'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td colspan='4' class='pollText' align='center'><b>On which platform do you play the most?</b></td>
+</tr>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='160'></td>
+	<td class='pollText'>PC</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='161'></td>
+	<td class='pollText'>Current gen consoles (PS2, Xbox, GC)</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='162'></td>
+	<td class='pollText'>Xbox360</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='163'></td>
+	<td class='pollText'>Handheld consoles (PSP, NDS, GBA)</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='164'></td>
+	<td class='pollText'>Other</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td colspan='4' align='center'><input type='submit' class='inputControl' value='Vote'></td>
+</tr>
+<tr>
+	<td colspan='4' align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=pollAllResult' class='link'>Result</a></td>
+</tr>
+<tr>
+	<td colspan='4' height='5'></td>
+</tr>
+</table>
+</form>
+
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='100%' cellpadding='0' cellspacing='0' border='0'>
+
+<tr>
+	<td colspan='2'><img src='./templates/base/images/screenShot/header.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' height='5'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='bottom' height='101' width='135'>
+	<a href='javascript:void(0);' onclick="window.open('pages/viewImage.php?image=admin/screenshot/300_THUMB.jpg&amp;sender=[SR]nszf','','screenx=50, screeny=50,width=1024,height=768,statusbar=0,scrollbars=1');">
+	<img src='admin/screenshot/300_THUMB.jpg' width='126' border='0' alt='' title=''></a></td>
+	<td width='9'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='middle' height='21' width='135'>
+	<a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=sotw' class='blackLink'>More</a>
+	<td width='9'></td>
+</tr>
+<tr><td height='1' colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></tr>
+</table>
+
+</td><td width='712' bgcolor='#DBDBDB' valign='top'><table cellpadding='5' cellspacing='0' border='0' bgcolor='#DBDBDB' width='100%'><tr><td><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'>Rush For Berlin</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Rush for Berlin single player demo and new trailer</td>
+				<td class='newsDate' align='right' valign='middle'>2006-05-09</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/Standing_3.jpg' class='newsImageLeft' alt='' title=''>Stormregion and its partners are proud to announce the arrival of the long awaited Rush for Berlin demo. It is available for free download here at Stormregion.com, on Gamespot.com and on numerous mirror sites found here:<br><br><a href='http://forum.deepsilver.com/showthread.php?t=15680' class='parseLink' target='_blank'>Mirrors</a><br><br><br>The demo can also be added to the full version of the game which extends the single player German campaign by one mission.<br><br><br>And that`s not all. We also have released an exciting new trailer made from cutscenes and in-game action sequences. You can download it from our homepage (>> Downloads > Rush for Berlin).
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'>Rush For Berlin</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Rush for Berlin - latest previews</td>
+				<td class='newsDate' align='right' valign='middle'>2006-04-26</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/gamespot.jpg' class='newsImageLeft' alt='' title=''> <b>Gamespot:</b> &quot;If you played the Codename: Panzers games, then it`s worth noting that there are slightly different gameplay mechanics at work in Rush for Berlin, as well as more of a focus on officers, which are hero units with powerful abilities&quot;<br><a href='http://www.gamespot.com/pc/strategy/rushforberlin/news.html?sid=6148097&amp;mode=previews' class='parseLink' target='_blank'>>> Read full article</a><br><hr><br><img align='Right' src='admin/fileGallery/boomtown.jpg' class='newsImageRight' alt='' title=''> <b>Boomtown:</b> &quot;Rush for Berlin does away with the resources and uses time instead. The game will allow you to build whatever you like but more powerful units will take longer to make. The only resource then is time itself.&quot;<br><a href='http://pc.boomtown.net/en_uk/articles/art.view.php?id=11107' class='parseLink' target='_blank'>>> Read full article</a><br><hr><br><img align='Left' src='admin/fileGallery/loadedinc.jpg' class='newsImageLeft' alt='' title=''> <b>Loaded Inc:</b> &quot;Graphically the game appears to be shaping up nicely with a full 3D engine modeling both cities and countrysides in vivid detail. As explosions rock the environment light poles and power lines crash to the ground, craters pock-mark the ground, and pools of blood collect under dead soldiers.&quot;<br><a href='http://www.loadedinc.com/preview.php?temp_view=preview.php&amp;id=123&amp;action=part1' class='parseLink' target='_blank'>>> Read full article</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'>Codename: Panzers Phase One - Codename: Panzers Phase Two</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>10TACLE STUDIOS establish strategic partnership with Stormregion</td>
+				<td class='newsDate' align='right' valign='middle'>2006-04-19</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					10TACLE STUDIOS and leading Hungarian developer Stormregion have decided to expand their operations beyond the PC to include next generation consoles by creating a tactical action game on Next Generation Consoles (XBOX 360 and PS3). Also in production will be a turn-based strategy game for handhelds (Sony PSP and NintendoDS).    <br><br>Only last year, the two companies announced their new partnership and the production of a sequel to the successful real-time strategy game. In this context, they also announced that the project with the working title “Codename Panzers: Cold War“ for PC would for the first time have a different setting than the World War II setting. 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'>Rush For Berlin</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Rush for Berlin previews and interview</td>
+				<td class='newsDate' align='right' valign='middle'>2006-03-31</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/gamezone.jpg' class='newsImageLeft' alt='' title=''> Rush for Berlin is shaping up to be a compelling RTS game with some fresh elements and should be a worthy successor to the popular Codename: Panzers games. If you were a fan of those looking for something new in the Real-Time Strategy genre, then you’ll have something to look forward to when Rush for Berlin ships this May. <br><a href='http://pc.gamezone.com/gzreviews/p27626.htm' class='parseLink' target='_blank'>>> Read full article</a><br><hr><img align='Right' src='admin/fileGallery/stratinformer.jpg' class='newsImageRight' alt='' title=''> This game could make an adequate contribution to the WWII strategy club but much beyond that is still uncertain right now, unless the few unique features that have been thrown into the mix really catch on. Still it’s a worth while project to keep an eye on and hopefully it’ll make a nice splash for the developer Stormregion, who are already responsible for the Panzers® franchise. <br><a href='http://www.strategyinformer.com/pc/rushforberlin/preview.html' class='parseLink' target='_blank'>>> Read full article</a><br><hr><img align='Left' src='admin/fileGallery/gamecloud.jpg' class='newsImageLeft' alt='' title=''> Gamecloud - Finally is there anything else you wish to say about Rush For Berlin?<br><br>- Some players may think they saw everything what can be shown in WWII strategy games. We don`t think so. However many games are released in this genre year-by-year, there are always a few with higher quality than the others - Rush for Berlin will be one of the few. With the skill-system, the time concept, the powerful officers, the opportunity of accomplish the objectives in different ways and the brand new multiplayer modes not only make Rush for Berlin unique, it gives the chance for the players of experiencing something new in gameplay. We hope all of you will enjoy the game! <br><a href='http://www.gamecloud.com/article.php?article_id=3902' class='parseLink' target='_blank'>>> Read full interview</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'>Rush For Berlin</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Rush for Berlin: Multiplayer modes</td>
+				<td class='newsDate' align='right' valign='middle'>2006-03-24</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					Technique meets size meets raw materials galore: the differences between the Germans, Soviets, and Allies add particular test to multiplayer skirmishes. You can surprise players from other factions – or fall victim to an unexpected maneuver yourself.  All sides are playable in multiplayer: the Allied forces (US, British), the Russians and the Germans with their full unit and weapon arsenal. The Allies will have the widest range of infantry units, the Russian will attack in masses, while the Germans will have technological superiority.<br><br><center><a href='javascript:void(0);' onclick="window.open('admin/fileGallery/cooperative_1.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/cooperative_1s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/cooperative_2.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/cooperative_2s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/domination_1.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/domination_1s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/domination_2.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/domination_2s.jpg' alt='' title=''></a><br><a href='javascript:void(0);' onclick="window.open('admin/fileGallery/risk_1.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/risk_1s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/risk_2.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/risk_2s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/rush_1.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/rush_1s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/rush_2.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/rush_2s.jpg' alt='' title=''></a><br><a href='javascript:void(0);' onclick="window.open('admin/fileGallery/skirmish_2.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/skirmish_2s.jpg' alt='' title=''></a> <a href='javascript:void(0);' onclick="window.open('admin/fileGallery/skirmish_3.jpg','','screenx=100, screeny=50,width=1049,height=793,statusbar=0,scrollbars=1');"><img align='' src='admin/fileGallery/skirmish_3s.jpg' alt='' title=''></a></center>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						<a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;articleID=198' class='newsRelatedLink'>Click here to see the whole article..</a>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='2' cellspacing='0' border='0' align='center'><tr><td><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=spf' class='pageInactive'>&lt;&lt;</a></td><td width='1'></td><td><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=spb' class='pageInactive'>&lt;</a></td><td width='2'></td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=0' class='pageActive'>1</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=1' class='pageInactive'>2</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=2' class='pageInactive'>3</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=3' class='pageInactive'>4</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=4' class='pageInactive'>5</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=5' class='pageInactive'>6</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=6' class='pageInactive'>7</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=7' class='pageInactive'>8</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=8' class='pageInactive'>9</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=9' class='pageInactive'>10</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=10' class='pageInactive'>11</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=11' class='pageInactive'>12</a></td><td width='2'></td><td><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=spn' class='pageInactive'>&gt;</a></td><td width='1'></td><td><a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;pageNumber=spl' class='pageInactive'>&gt;&gt;</a></td></tr></table></td></tr></table></td><td width='144' style='background-image: url(./templates/base/images/rightBG.gif)' valign='top' align='right'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='9'><img src='./templates/base/images/box/rightSeparator.gif' alt='' title=''></td><td width='135'bgcolor='#4372A4'><form action='redirect.php?sid=119ea4197c417e4ab424817f44748874&amp;action=login&amp;forceRedirect=' method='post'>
+<table width='100%' cellpadding='3' cellspacing='0' border='0' class='simpleBlackText'>
+<tr>
+	<td align='center' class='simpleText'>
+		<b>Log In</b><br>
+		
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='text' size='15' maxlength='25' name='login' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='password' size='15' maxlength='25' name='pass' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	<input type='submit' value='Log In!' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=registration' class='link'>Registration</a>]
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=119ea4197c417e4ab424817f44748874&amp;activeMenuID=forgottenPassword' class='link'>Password recovery</a>]
+	</td>
+</tr>
+</table>
+</form>
+
+</td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='144' cellpadding='0' cellspacing='0' border='0' style='background-image: url(./templates/base/images/topTopic/bgTile.gif)'>
+<tr>
+	<td colspan='2'>
+		<img src='./templates/base/images/topTopic/header.gif' alt='' title=''>
+	</td>
+</tr>
+<tr>
+	<td width='9'></td>
+	<td width='135'>
+		<table cellpadding='5' cellspacing='0' border='0' width='100%'>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=119ea4197c417e4ab424817f44748874&amp;t=122' class='simpleText'>kérdés</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=119ea4197c417e4ab424817f44748874&amp;t=138' class='simpleText'>Can't install th..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=119ea4197c417e4ab424817f44748874&amp;t=135' class='simpleText'>Editor wont open</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=119ea4197c417e4ab424817f44748874&amp;t=137' class='simpleText'>Only 27 days to ..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=119ea4197c417e4ab424817f44748874&amp;t=88' class='simpleText'>RFB Release Date</a></td></tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+<img src='./templates//base/images/instore.gif' alt='In stores now' title='In stores now'></td></tr><tr><td height='26' bgcolor='#4976A6' align='center' valign='middle' class='whiteText' colspan='3'><table width='1000' cellpadding='0' cellspacing='0' border='0'>
+	<tr>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)' height='26'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerLeftSeparator.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='11'><img src='./templates/base/images/footerBlueLeft.gif' alt='' title=''></td>
+		<td width='538' style='background-image: url(./templates/base/images/footerBlueContent.gif)' align='center' valign='middle' class='copyRight'>
+		2005 © Copyright Stormregion Ltd. All rights reserved.
+		</td>
+		<td width='11'><img src='./templates/base/images/footerBlueRight.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerRightSeparator.gif' alt='' title=''></td>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)'>&nbsp;</td>
+	</tr>
+</table>
+	</td></tr></table></center></body></html>

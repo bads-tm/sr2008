@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.stormregion.com/wiki/skins/common/feed.css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://www.stormregion.com/wiki/index.php?title=Special:Recentchanges&amp;feed=atom</id>
+		<title>StormWiki - Recent changes [en]</title>
+		<link rel="self" type="application/atom+xml" href="http://www.stormregion.com/wiki/index.php?title=Special:Recentchanges&amp;feed=atom"/>
+		<link rel="alternate" type="text/html" href="http://www.stormregion.com/wiki/index.php/Special:Recentchanges"/>
+		<updated>2007-02-20T21:03:30Z</updated>
+		<subtitle>Track the most recent changes to the wiki on this page.</subtitle>
+		<generator>MediaWiki 1.6.6</generator>
+
+	</feed>

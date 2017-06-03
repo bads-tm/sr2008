@@ -1,0 +1,604 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>StormRegion.com</title><link rel='stylesheet' href='style-sheet/style.css' type='text/css'><link rel='shortcut icon' href='style-sheet/favicon.ico'><meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=iso-8859-1'><script language='JavaScript1.2'>history.forward(1)</script></head><body style='margin: 0px;background-image: url(./templates/base/images/bgTile.gif)'><center><table cellpadding='0' cellspacing='0' border='0' width='1000' style='height:100%' bgcolor='#000000'><tr><td width='1000' height='119' colspan='3'><map name="map1">
+<area shape="rect" coords="0,0,160,20"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map2">
+<area shape ="rect" coords="0,0,160,18"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map3">
+<area shape ="rect" coords="0,0,140,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map4">
+<area shape ="rect" coords="0,0,110,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<table width="1000"  height='144' border="0" cellpadding="0" cellspacing="0">
+	<tr style='background-image: url(./templates/base/images/header/index_02.gif); background-repeat: repeat-x;' valign='top' height='55'>
+		<td width="322">
+			<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src="./templates/base/images/header/index_01.gif" width="322" height="55" alt="" border="0"></a></td>
+		<td align='left' valign='bottom'><table border="0" cellpadding="0" cellspacing="0" height='17'><tr height='15'><td>
+			<div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=press'>Press</a></ul></li><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='forum/index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;'>Forum</a></li><li><a>&nbsp;&nbsp;Mods</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;Berlin</a><script type="text/javascript" src="menu/imenus_data.js"></script><script type="text/javascript" src="menu/imenus_code.js"></script>
+		</td></tr><tr height='2'><td></td></tr></table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_07.gif); background-repeat: repeat-x;' valign='top' height='62'>
+		<td colspan='2'>
+		<table width="1000" height='62' border="0" cellpadding="0" cellspacing="0">
+		<tr valign='bottom'><td rowspan="2" width="169" height="62" ><img src="./templates/base/images/header/index_04.gif" width="169" height="62" alt=""></td>
+		<td width="74" height="44" colspan="2" style='background-image: url(./templates/base/images/header/index_06.gif); background-position:top left; background-repeat: no-repeat;'></td>
+		<td rowspan="2" align='center' height="62">
+			<embed src="./templates/base/images/header/banner.swf" style="z-index: -1;"  wmode="opaque" height="55" width="445"></embed>
+			<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/ca" width="445" title="NATO Harci Pilóta Toborzás!" align="bottom" height="55">
+                    		<param name="movie" value="./templates/base/images/header/banner.swf">
+              		<param name="quality" value="high">
+                    		<embed src="./templates/base/images/header/banner.swf" quality="high" name="nato_mini" style="z-index: -1;"  wmode="opaque" type="application/x" pluginspage="http://www.macromedia.com/go/getflashpl" title="NATO Harci Pilóta Toborzás!" align="allowScriptAccess=&quot;sameDomain&quot;" height="55" width="445">
+            		</object>    -->
+		</td>
+		<td width='148'></td>
+		</tr>
+		<tr>
+			<td bgcolor="#c6c6c6" height="18">
+				<img src="./templates/base/images/header/titles/headerBottomNews.gif" height="18" alt=""></td>
+			<td>
+				<img src="./templates/base/images/header/index_10.gif" width="20" height="18" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_13.gif); background-repeat: repeat-x;' valign='top' height="19">
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="19">
+		<td width="148">
+			<img src="./templates/base/images/header/index_11.gif" width="148" height="19" alt=""></td>
+		<td width="22">
+			<img src="./templates/base/images/header/index_12.gif" width="22" height="19" alt=""></td>
+		<td width='669'></td>
+		<td width="13">
+			<img src="./templates/base/images/header/index_16.gif" width="13" height="19" alt=""></td>
+		<td  width="148">
+			<img src="./templates/base/images/header/index_17.gif" width="148" height="19" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+		<tr bgcolor='#D9D9D9' valign='top' height='8'>
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="8"><td width="212">
+			<img src="./templates/base/images/header/index_18.gif" width="212" height="8" alt=""></td>
+		<td width='575'></td>
+		<td width="213">
+			<img src="./templates/base/images/header/index_21.gif" width="213" height="8" alt=""></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</td></tr><tr><td width='144' height='100%' valign='top' style='background-image: url(./templates/base/images/leftBG.gif)' align='left'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#4372A4'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_news&amp;activeMenuID=cpph1' class='selectedMenuText'>News</a></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2' height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_details&amp;activeMenuID=cpph1' class='menuText'>Details</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_awards&amp;activeMenuID=cpph1' class='menuText'>Awards</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_download&amp;activeMenuID=cpph1' class='menuText'>Downloads</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_gallery&amp;activeMenuID=cpph1' class='menuText'>Screenshots</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_serial&amp;serialProjectID=100&activeMenuID=cpph1' class='menuText'>Serial registration</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='http://www.panzers.com/index.php?page=news.en.panzers' class='menuText' target='_blank'>Official site</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_media&amp;serialProjectID=100&activeMenuID=cpph1' class='menuText'>Media</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+</table>
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><img src='./templates/base/images/poll/pollHeader.gif' alt='' title=''><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#305172'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=saveVote' method='post'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td colspan='4' class='pollText' align='center'><b>How important are custom content tools for a game?</b></td>
+</tr>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='165'></td>
+	<td class='pollText'>Very Important. I use Custom content tools a lot for gaming!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='166'></td>
+	<td class='pollText'>Somewhat Important. It adds more variety for the community!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='167'></td>
+	<td class='pollText'>Not Important. I only play with the officially released content.</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td colspan='4' align='center'><input type='submit' class='inputControl' value='Vote'></td>
+</tr>
+<tr>
+	<td colspan='4' align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=pollAllResult' class='link'>Result</a></td>
+</tr>
+<tr>
+	<td colspan='4' height='5' align='center'></td>
+</tr>
+<tr valign='bottom'>
+	<td colspan='4' height='5' align='center'><a class='newsHeader'  href='http://www.stormregion.com/forum/viewtopic.php?t=293'><b>Forum</b></a></td>
+</tr>
+</table>
+</form>
+
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='100%' cellpadding='0' cellspacing='0' border='0'>
+
+<tr>
+	<td colspan='2'><img src='./templates/base/images/screenShot/header.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' height='5'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='bottom' height='101' width='135'>
+	<a href='javascript:void(0);' onclick="window.open('pages/viewImage.php?image=admin/screenshot/304_THUMB.jpg&amp;sender=[SR]nszf','','screenx=50, screeny=50,width=1024,height=768,statusbar=0,scrollbars=1');">
+	<img src='admin/screenshot/304_THUMB.jpg' width='126' border='0' alt='' title=''></a></td>
+	<td width='9'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='middle' height='21' width='135'>
+	<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=sotw' class='blackLink'>More</a>
+	<td width='9'></td>
+</tr>
+<tr><td height='1' colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></tr>
+</table>
+
+</td><input type='hidden' name='activepage2' value='news.php'><input type='hidden' name='activemenuid2' value='cpph1'><input type='hidden' name='activesubmenuid2' value='cpph1_news'><input type='hidden' name='activeprojectid2' value='100'><input type='hidden' name='articleid2' value=''><td width='712' bgcolor='#DBDBDB' valign='top'><table cellpadding='5' cellspacing='0' border='0' bgcolor='#DBDBDB' width='100%'><tr><td><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='1' bgcolor='#B11011'></td>
+</tr>
+<tr>
+	<td>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td width='1' bgcolor='#B11011'></td>
+			<td>
+			<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+				<tr>
+					<td align='left' class='newsText' bgcolor='#FFFCDF'>
+						<img align='Left' src='admin/fileGallery/phaseonedoboz.jpg' class='newsImageLeft' alt='' title=''>Codename: Panzers is a military strategy game based on WWII events.<br>The game includes three campaigns, one for each side fighting the war: Germany, the Soviet Union and the Anglo-American allies. Each campaign is divided into a number of missions. <br>
+						<br><br>
+						<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=cpph1_details&amp;activeMenuID=cpph1' class='infoHeaderLink'>more details..</a>
+					</td>
+				</tr>
+			</table>
+			</td>
+			<td width='1' bgcolor='#B11011'></td>
+		</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td height='1' bgcolor='#B11011'></td>
+</tr>
+</table>
+<br>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Codename: Panzers - Cold War Partnership formed </td>
+				<td class='newsDate' align='right' valign='middle'>2006-09-18</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					Once again, we have another exciting tidbit of news. That giant of giants, that master of electronic entertainment or more correctly, of &quot;Electronic Arts&quot; is joining up with 10tacle and Stormregion to bring Codename: Panzers - Cold War to you!!!!!!!!!<br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;articleID=213&amp;activeMenuID=cpph1' class='newsRelatedLink'>Click here to see the whole article..</a>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Stormregion dominates tactical RTS top list in PC Games</td>
+				<td class='newsDate' align='right' valign='middle'>2006-08-16</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<a href='javascript:void(0);' onclick="window.open('admin/fileGallery/pcgames.jpg','','screenx=100, screeny=50,width=283,height=519,statusbar=0,scrollbars=1');"><img align='Left' src='admin/fileGallery/pcgamesch2.jpg' class='newsImageLeft' alt='' title=''></a>Some days you have good days and some days you have great days! This happens to be the latter. We are exceedingly proud to present the best of the best tactical rts games EVER as chosen by PC Games Germany. <br><br>Have yourself a little peek at numbers 1, 2 and 3 on the list. And these guys ain`t pushovers. <br><br><br><b>1. Rush for Berlin<br>2. Codename Panzers: Phase 2<br>3. Codename Panzers</b><br>4. Soldiers: Heroes of WWII<br>5. Freedom Force vs. The Third reich<br>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Stormregion at Games Convention 2006</td>
+				<td class='newsDate' align='right' valign='middle'>2006-08-09</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/gclogo2.jpg' class='newsImageLeft' alt='' title=''>There is more good news on the horizon. At the Leipzig Games Convention this month (August 24th to 27th) expect great news from Stormregion! <br>First off, you`ll get a closer look at Rush for the Bomb (published through Deep Silver), an exciting new adventure set in Spain. Expect arid plains of intrigue, mountains of mysteries and a fresh cast of characters. <br>As if that wasn`t enough, there`s Codename: Panzers Cold War (published through 10tacle). For fans of the series expect a new and revamped style Panzers game with new features and new fun. But, you`ll have to wait till Leipzig to learn more. 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>10TACLE STUDIOS establish strategic partnership with Stormregion</td>
+				<td class='newsDate' align='right' valign='middle'>2006-04-19</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					10TACLE STUDIOS and leading Hungarian developer Stormregion have decided to expand their operations beyond the PC to include next generation consoles by creating a tactical action game on Next Generation Consoles (XBOX 360 and PS3). Also in production will be a turn-based strategy game for handhelds (Sony PSP and NintendoDS).    <br><br>Only last year, the two companies announced their new partnership and the production of a sequel to the successful real-time strategy game. In this context, they also announced that the project with the working title “Codename Panzers: Cold War“ for PC would for the first time have a different setting than the World War II setting. 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>The Ultimate Codename Panzers Mod Resource</td>
+				<td class='newsDate' align='right' valign='middle'>2006-02-27</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					A new portal supporting modders for game Codename Panzers, updated daily! News, reviews, forum, downloads and much more, so come over to check out the latest downloads! <br><br><a href='http://www.panzers.co.nr' class='parseLink' target='_blank'>Click!</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='2' cellspacing='0' border='0' align='center'><tr><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spf' class='pageInactive'>&lt;&lt;</a></td><td width='1'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spb' class='pageInactive'>&lt;</a></td><td width='2'></td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=0&amp;activeMenuID=cpph1' class='pageActive'>1</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=1&amp;activeMenuID=cpph1' class='pageInactive'>2</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=2&amp;activeMenuID=cpph1' class='pageInactive'>3</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=3&amp;activeMenuID=cpph1' class='pageInactive'>4</a></td><td width='2'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spn' class='pageInactive'>&gt;</a></td><td width='1'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spl' class='pageInactive'>&gt;&gt;</a></td></tr></table></td></tr></table></td><td width='144' style='background-image: url(./templates/base/images/rightBG.gif)' valign='top' align='right'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='9'><img src='./templates/base/images/box/rightSeparator.gif' alt='' title=''></td><td width='135'bgcolor='#4372A4'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=login&amp;forceRedirect=' method='post'>
+<table width='100%' cellpadding='3' cellspacing='0' border='0' class='simpleBlackText'>
+<tr>
+	<td align='center' class='simpleText'>
+		<b>Log In</b><br>
+		
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='text' size='15' maxlength='25' name='login' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='password' size='15' maxlength='25' name='pass' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	<input type='submit' value='Log In!' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=registration' class='link'>Registration</a>]
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=forgottenPassword' class='link'>Password recovery</a>]
+	</td>
+</tr>
+</table>
+</form>
+
+</td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='144' cellpadding='0' cellspacing='0' border='0' style='background-image: url(./templates/base/images/topTopic/bgTile.gif)'>
+<tr>
+	<td colspan='2'>
+		<img src='./templates/base/images/topTopic/header.gif' alt='' title=''>
+	</td>
+</tr>
+<tr>
+	<td width='9'></td>
+	<td width='135'>
+		<table cellpadding='5' cellspacing='0' border='0' width='100%'>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=294' class='simpleText'>Availability</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=297' class='simpleText'>Great &amp; Need..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=282' class='simpleText'>Panzers - Cold W..</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=305' class='simpleText'>Game too fast! N..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=313' class='simpleText'>Modding Units us..</a></td></tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+<img src='./templates//base/images/instore.gif' alt='In stores now' title='In stores now'></td></tr><tr><td height='26' bgcolor='#4976A6' align='center' valign='middle' class='whiteText' colspan='3'><table width='1000' cellpadding='0' cellspacing='0' border='0'>
+	<tr>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)' height='26'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerLeftSeparator.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='11'><img src='./templates/base/images/footerBlueLeft.gif' alt='' title=''></td>
+		<td width='538' style='background-image: url(./templates/base/images/footerBlueContent.gif)' align='center' valign='middle' class='copyRight'>
+		2005 © Copyright Stormregion Ltd. All rights reserved.
+		</td>
+		<td width='11'><img src='./templates/base/images/footerBlueRight.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerRightSeparator.gif' alt='' title=''></td>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)'>&nbsp;</td>
+	</tr>
+</table>
+	</td></tr></table></center></body></html>

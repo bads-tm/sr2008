@@ -1,0 +1,538 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>StormRegion.com</title><link rel='stylesheet' href='style-sheet/style.css' type='text/css'><link rel='shortcut icon' href='style-sheet/favicon.ico'><meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=iso-8859-1'><script language='JavaScript1.2'>history.forward(1)</script></head><body style='margin: 0px;background-image: url(./templates/base/images/bgTile.gif)'><center><table cellpadding='0' cellspacing='0' border='0' width='1000' style='height:100%' bgcolor='#000000'><tr><td width='1000' height='119' colspan='3'><map name="map1">
+<area shape="rect" coords="0,0,160,20"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map2">
+<area shape ="rect" coords="0,0,160,18"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map3">
+<area shape ="rect" coords="0,0,140,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map4">
+<area shape ="rect" coords="0,0,110,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<table width="1000"  height='144' border="0" cellpadding="0" cellspacing="0">
+	<tr style='background-image: url(./templates/base/images/header/index_02.gif); background-repeat: repeat-x;' valign='top' height='55'>
+		<td width="322">
+			<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src="./templates/base/images/header/index_01.gif" width="322" height="55" alt="" border="0"></a></td>
+		<td align='left' valign='bottom'><table border="0" cellpadding="0" cellspacing="0" height='17'><tr height='15'><td>
+			<div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=press'>Press</a></ul></li><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='forum/index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;'>Forum</a></li><li><a>&nbsp;&nbsp;Mods</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;Berlin</a><script type="text/javascript" src="menu/imenus_data.js"></script><script type="text/javascript" src="menu/imenus_code.js"></script>
+		</td></tr><tr height='2'><td></td></tr></table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_07.gif); background-repeat: repeat-x;' valign='top' height='62'>
+		<td colspan='2'>
+		<table width="1000" height='62' border="0" cellpadding="0" cellspacing="0">
+		<tr valign='bottom'><td rowspan="2" width="169" height="62" ><img src="./templates/base/images/header/index_04.gif" width="169" height="62" alt=""></td>
+		<td width="74" height="44" colspan="2" style='background-image: url(./templates/base/images/header/index_06.gif); background-position:top left; background-repeat: no-repeat;'></td>
+		<td rowspan="2" align='center' height="62">
+			<embed src="./templates/base/images/header/banner.swf" style="z-index: -1;"  wmode="opaque" height="55" width="445"></embed>
+			<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/ca" width="445" title="NATO Harci Pilóta Toborzás!" align="bottom" height="55">
+                    		<param name="movie" value="./templates/base/images/header/banner.swf">
+              		<param name="quality" value="high">
+                    		<embed src="./templates/base/images/header/banner.swf" quality="high" name="nato_mini" style="z-index: -1;"  wmode="opaque" type="application/x" pluginspage="http://www.macromedia.com/go/getflashpl" title="NATO Harci Pilóta Toborzás!" align="allowScriptAccess=&quot;sameDomain&quot;" height="55" width="445">
+            		</object>    -->
+		</td>
+		<td width='148'></td>
+		</tr>
+		<tr>
+			<td bgcolor="#c6c6c6" height="18">
+				<img src="./templates/base/images/header/titles/headerBottomMedia.gif" height="18" alt=""></td>
+			<td>
+				<img src="./templates/base/images/header/index_10.gif" width="20" height="18" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_13.gif); background-repeat: repeat-x;' valign='top' height="19">
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="19">
+		<td width="148">
+			<img src="./templates/base/images/header/index_11.gif" width="148" height="19" alt=""></td>
+		<td width="22">
+			<img src="./templates/base/images/header/index_12.gif" width="22" height="19" alt=""></td>
+		<td width='669'></td>
+		<td width="13">
+			<img src="./templates/base/images/header/index_16.gif" width="13" height="19" alt=""></td>
+		<td  width="148">
+			<img src="./templates/base/images/header/index_17.gif" width="148" height="19" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+		<tr bgcolor='#D9D9D9' valign='top' height='8'>
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="8"><td width="212">
+			<img src="./templates/base/images/header/index_18.gif" width="212" height="8" alt=""></td>
+		<td width='575'></td>
+		<td width="213">
+			<img src="./templates/base/images/header/index_21.gif" width="213" height="8" alt=""></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</td></tr><tr><td width='144' height='100%' valign='top' style='background-image: url(./templates/base/images/leftBG.gif)' align='left'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#4372A4'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=swine_news' class='menuText'>News</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=swine_details' class='menuText'>Details</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=swine_download' class='menuText'>Downloads</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=swine_gallery' class='menuText'>Screenshots</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=swine_media&amp;serialProjectID=103' class='selectedMenuText'>Media</a></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2' height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+</table>
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><img src='./templates/base/images/poll/pollHeader.gif' alt='' title=''><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#305172'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=saveVote' method='post'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td colspan='4' class='pollText' align='center'><b>How important are custom content tools for a game?</b></td>
+</tr>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='165'></td>
+	<td class='pollText'>Very Important. I use Custom content tools a lot for gaming!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='166'></td>
+	<td class='pollText'>Somewhat Important. It adds more variety for the community!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='167'></td>
+	<td class='pollText'>Not Important. I only play with the officially released content.</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td colspan='4' align='center'><input type='submit' class='inputControl' value='Vote'></td>
+</tr>
+<tr>
+	<td colspan='4' align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=pollAllResult' class='link'>Result</a></td>
+</tr>
+<tr>
+	<td colspan='4' height='5' align='center'></td>
+</tr>
+<tr valign='bottom'>
+	<td colspan='4' height='5' align='center'><a class='newsHeader'  href='http://www.stormregion.com/forum/viewtopic.php?t=293'><b>Forum</b></a></td>
+</tr>
+</table>
+</form>
+
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='100%' cellpadding='0' cellspacing='0' border='0'>
+
+<tr>
+	<td colspan='2'><img src='./templates/base/images/screenShot/header.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' height='5'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='bottom' height='101' width='135'>
+	<a href='javascript:void(0);' onclick="window.open('pages/viewImage.php?image=admin/screenshot/304_THUMB.jpg&amp;sender=[SR]nszf','','screenx=50, screeny=50,width=1024,height=768,statusbar=0,scrollbars=1');">
+	<img src='admin/screenshot/304_THUMB.jpg' width='126' border='0' alt='' title=''></a></td>
+	<td width='9'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='middle' height='21' width='135'>
+	<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=sotw' class='blackLink'>More</a>
+	<td width='9'></td>
+</tr>
+<tr><td height='1' colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></tr>
+</table>
+
+</td><input type='hidden' name='activepage2' value='media.php'><input type='hidden' name='activemenuid2' value='swine'><input type='hidden' name='activesubmenuid2' value='swine_media'><input type='hidden' name='activeprojectid2' value='104'><input type='hidden' name='articleid2' value=''><td width='712' bgcolor='#DBDBDB' valign='top'><table cellpadding='5' cellspacing='0' border='0' bgcolor='#DBDBDB' width='100%'><tr><td><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>G4 video review (80%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-20&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					Overall Rush for Berlin just feels a lot better than most of the other RTS games out there. It’s a great blend between realism and fast-paced gameplay wrapped in a solid package that RTS fans will love. They’ll love it, that is, if they can get over this being yet another themed WWII game in a sea of olive drab releases.<br><br><a href='http://www.g4tv.com/xplay/reviews/1185/Rush_for_Berlin.html' class='parseLink' target='_blank'>G4</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Next Level Gaming review (88%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-19&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					<img align='Left' src='admin/fileGallery/nextlevelgaming.jpg' class='newsImageLeft' alt='' title=''> If you are a fan of RTS games and are interested in taking a fresh new look at WWII then I highly recommend checking out this game.  Great details, fun gameplay, interesting storyline for the German and French Campaigns all combine to make a great title.<br><br><a href='http://www.nlgaming.com/nl/asp/id_1446/nl/reviewDisp.htm' class='parseLink' target='_blank'>Next Level Gaming</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>The Bovine Conspiracy review (80%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-19&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					 In the end, Rush for Berlin is a pretty good action-oriented tactical RTS, a fast-paced adrenaline rush of conflict similar to Dawn of War. The emphasis on constant progress and non-stop action combined with the gorgeous graphics and richly detailed world make for a very fun time.<br><br><a href='http://www.bovineconspiracy.com/index.php?option=com_content&amp;task=view&amp;id=294&amp;Itemid=42' class='parseLink' target='_blank'>The Bovine Conspiracy</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Gaming Excellence review (82%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-19&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					Whether you are playing the Western or Russian campaign and racing to Berlin, or the much different German or French campaigns, you will enjoy this one thoroughly. On top of presenting a challenging strategic experience, Rush for Berlin looks simply amazing. If you are a fan of strategy games and looking for a different take on the WWII setting, be sure to check this one out.<br><br><a href='http://www.gamingexcellence.com/pc/games/625/review.shtml' class='parseLink' target='_blank'>Gaming Excellence</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Eurogamer review (60%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-19&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					Multiplayer modes are surprisingly diverse and inventive. As well as refreshingly brief deathmatches and the chance to play campaign scenarios with a friend, there are imaginative `RISK` matches where players are randomly assigned secret mission goals and `RUSH` contests where everyone scraps Domination-style over a set of strategic locations.<br><br><a href='http://www.eurogamer.net/article.php?article_id=65568' class='parseLink' target='_blank'>Eurogamer</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Game Chronicles review (78%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-15&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					Rush For Berlin is a unique and well-made Real Time Strategy war game. Using unit tactics and challenging gameplay you will have hours of fun defeating the enemy, whichever one you choose to fight against.<br><br>With the campaigns as well as the RISK and RUSH single player game Rush For Berlin will keep you busy for more than twenty hours of gameplay. You also have the five multiplayer modes including the unique RUSH and RISK game types for added fun and challenge. <br><br><a href='http://www.gamechronicles.com/reviews/pc/rushberlin/rushberlin.htm' class='parseLink' target='_blank'>Game Chronicles</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Gamer`s Temple review (79%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-13&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					Speaking of units, the game features a nice mix of units for each army including infantry, armor, and support units such as artillery or supply trucks. The infantry units are for the most part controlled as squads so you won’t have to command each individual soldier on the field of battle. <br><br><a href='http://www.gamerstemple.com/games9/001185/001185r01.asp' class='parseLink' target='_blank'>Gamer`s Temple</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader' align='left' valign='middle'>Ace Gamez review (80%)</td>
+			<td class='newsDate' align='right' valign='middle'>2006-06-13&nbsp;</td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+					<img align='Left' src='admin/fileGallery/ace.jpg' class='newsImageLeft' alt='' title=''> Nowhere is this more apparent than in the graphics, an area Stromregion always seem to excel at; the visuals far surpass their previous work, with an incredible level of detail that shows every oil stain and every scratch on each tank and jeep. I could go on about how luscious the foliage looks and how picturesque the landscapes are, but you`ll only really come to appreciate the game`s looks when you`re blowing seven shades of Nazi-decorated-astroturf out of it. <br><br><a href='http://www.acegamez.co.uk/reviews_pc/Rush_For_Berlin_PC.htm' class='parseLink' target='_blank'>Ace Gamez</a>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+	</td>
+</table>
+<table cellpadding='2' cellspacing='0' border='0' align='center'><tr><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spf' class='pageInactive'>&lt;&lt;</a></td><td width='1'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spb' class='pageInactive'>&lt;</a></td><td width='2'></td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=0' class='pageActive'>1</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=1' class='pageInactive'>2</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=2' class='pageInactive'>3</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=3' class='pageInactive'>4</a></td><td width='2'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spn' class='pageInactive'>&gt;</a></td><td width='1'></td><td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;pageNumber=spl' class='pageInactive'>&gt;&gt;</a></td></tr></table></td></tr></table></td><td width='144' style='background-image: url(./templates/base/images/rightBG.gif)' valign='top' align='right'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='9'><img src='./templates/base/images/box/rightSeparator.gif' alt='' title=''></td><td width='135'bgcolor='#4372A4'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=login&amp;forceRedirect=' method='post'>
+<table width='100%' cellpadding='3' cellspacing='0' border='0' class='simpleBlackText'>
+<tr>
+	<td align='center' class='simpleText'>
+		<b>Log In</b><br>
+		Please log in to vote!
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='text' size='15' maxlength='25' name='login' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='password' size='15' maxlength='25' name='pass' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	<input type='submit' value='Log In!' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=registration' class='link'>Registration</a>]
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=forgottenPassword' class='link'>Password recovery</a>]
+	</td>
+</tr>
+</table>
+</form>
+
+</td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='144' cellpadding='0' cellspacing='0' border='0' style='background-image: url(./templates/base/images/topTopic/bgTile.gif)'>
+<tr>
+	<td colspan='2'>
+		<img src='./templates/base/images/topTopic/header.gif' alt='' title=''>
+	</td>
+</tr>
+<tr>
+	<td width='9'></td>
+	<td width='135'>
+		<table cellpadding='5' cellspacing='0' border='0' width='100%'>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=294' class='simpleText'>Availability</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=297' class='simpleText'>Great &amp; Need..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=282' class='simpleText'>Panzers - Cold W..</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=305' class='simpleText'>Game too fast! N..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=313' class='simpleText'>Modding Units us..</a></td></tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+<img src='./templates//base/images/instore.gif' alt='In stores now' title='In stores now'></td></tr><tr><td height='26' bgcolor='#4976A6' align='center' valign='middle' class='whiteText' colspan='3'><table width='1000' cellpadding='0' cellspacing='0' border='0'>
+	<tr>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)' height='26'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerLeftSeparator.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='11'><img src='./templates/base/images/footerBlueLeft.gif' alt='' title=''></td>
+		<td width='538' style='background-image: url(./templates/base/images/footerBlueContent.gif)' align='center' valign='middle' class='copyRight'>
+		2005 © Copyright Stormregion Ltd. All rights reserved.
+		</td>
+		<td width='11'><img src='./templates/base/images/footerBlueRight.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerRightSeparator.gif' alt='' title=''></td>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)'>&nbsp;</td>
+	</tr>
+</table>
+	</td></tr></table></center></body></html>

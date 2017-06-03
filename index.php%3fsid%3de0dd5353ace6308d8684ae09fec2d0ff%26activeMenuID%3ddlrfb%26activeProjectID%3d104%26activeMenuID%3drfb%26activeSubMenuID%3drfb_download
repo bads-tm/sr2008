@@ -1,0 +1,895 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>StormRegion.com</title><link rel='stylesheet' href='style-sheet/style.css' type='text/css'><link rel='shortcut icon' href='style-sheet/favicon.ico'><meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=iso-8859-1'><script language='JavaScript1.2'>history.forward(1)</script></head><body style='margin: 0px;background-image: url(./templates/base/images/bgTile.gif)'><center><table cellpadding='0' cellspacing='0' border='0' width='1000' style='height:100%' bgcolor='#000000'><tr><td width='1000' height='119' colspan='3'><map name="map1">
+<area shape="rect" coords="0,0,160,20"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map2">
+<area shape ="rect" coords="0,0,160,18"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map3">
+<area shape ="rect" coords="0,0,140,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map4">
+<area shape ="rect" coords="0,0,110,19"
+  href ="index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<table width="1000"  height='144' border="0" cellpadding="0" cellspacing="0">
+	<tr style='background-image: url(./templates/base/images/header/index_02.gif); background-repeat: repeat-x;' valign='top' height='55'>
+		<td width="322">
+			<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src="./templates/base/images/header/index_01.gif" width="322" height="55" alt="" border="0"></a></td>
+		<td align='left' valign='bottom'><table border="0" cellpadding="0" cellspacing="0" height='17'><tr height='15'><td>
+			<div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=press'>Press</a></ul></li><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='forum/index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;'>Forum</a></li><li><a>&nbsp;&nbsp;Mods</a><ul style='width:140px;'><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;Berlin</a><script type="text/javascript" src="menu/imenus_data.js"></script><script type="text/javascript" src="menu/imenus_code.js"></script>
+		</td></tr><tr height='2'><td></td></tr></table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_07.gif); background-repeat: repeat-x;' valign='top' height='62'>
+		<td colspan='2'>
+		<table width="1000" height='62' border="0" cellpadding="0" cellspacing="0">
+		<tr valign='bottom'><td rowspan="2" width="169" height="62" ><img src="./templates/base/images/header/index_04.gif" width="169" height="62" alt=""></td>
+		<td width="74" height="44" colspan="2" style='background-image: url(./templates/base/images/header/index_06.gif); background-position:top left; background-repeat: no-repeat;'></td>
+		<td rowspan="2" align='center' height="62">
+			<embed src="./templates/base/images/header/banner.swf" style="z-index: -1;"  wmode="opaque" height="55" width="445"></embed>
+			<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/ca" width="445" title="NATO Harci Pilóta Toborzás!" align="bottom" height="55">
+                    		<param name="movie" value="./templates/base/images/header/banner.swf">
+              		<param name="quality" value="high">
+                    		<embed src="./templates/base/images/header/banner.swf" quality="high" name="nato_mini" style="z-index: -1;"  wmode="opaque" type="application/x" pluginspage="http://www.macromedia.com/go/getflashpl" title="NATO Harci Pilóta Toborzás!" align="allowScriptAccess=&quot;sameDomain&quot;" height="55" width="445">
+            		</object>    -->
+		</td>
+		<td width='148'></td>
+		</tr>
+		<tr>
+			<td bgcolor="#c6c6c6" height="18">
+				<img src="./templates/base/images/header/titles/headerBottomDownload.gif" height="18" alt=""></td>
+			<td>
+				<img src="./templates/base/images/header/index_10.gif" width="20" height="18" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_13.gif); background-repeat: repeat-x;' valign='top' height="19">
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="19">
+		<td width="148">
+			<img src="./templates/base/images/header/index_11.gif" width="148" height="19" alt=""></td>
+		<td width="22">
+			<img src="./templates/base/images/header/index_12.gif" width="22" height="19" alt=""></td>
+		<td width='669'></td>
+		<td width="13">
+			<img src="./templates/base/images/header/index_16.gif" width="13" height="19" alt=""></td>
+		<td  width="148">
+			<img src="./templates/base/images/header/index_17.gif" width="148" height="19" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+		<tr bgcolor='#D9D9D9' valign='top' height='8'>
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="8"><td width="212">
+			<img src="./templates/base/images/header/index_18.gif" width="212" height="8" alt=""></td>
+		<td width='575'></td>
+		<td width="213">
+			<img src="./templates/base/images/header/index_21.gif" width="213" height="8" alt=""></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</td></tr><tr><td width='144' height='100%' valign='top' style='background-image: url(./templates/base/images/leftBG.gif)' align='left'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#4372A4'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_news&amp;activeMenuID=rfb' class='menuText'>News</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_details&amp;activeMenuID=rfb' class='menuText'>Details</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_awards&amp;activeMenuID=rfb' class='menuText'>Awards</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_download&amp;activeMenuID=rfb' class='selectedMenuText'>Downloads</a></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2' height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_gallery&amp;activeMenuID=rfb' class='menuText'>Screenshots</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='http://www.rushforberlin.com/' class='menuText' target='_blank'>Official site</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=rfb_media&amp;serialProjectID=104&activeMenuID=rfb' class='menuText'>Media</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeSubMenuID=mod2&amp;activeMenuID=rfb' class='menuText'>Mods</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+</table>
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><img src='./templates/base/images/poll/pollHeader.gif' alt='' title=''><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#305172'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=saveVote' method='post'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td colspan='4' class='pollText' align='center'><b>How important are custom content tools for a game?</b></td>
+</tr>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='165'></td>
+	<td class='pollText'>Very Important. I use Custom content tools a lot for gaming!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='166'></td>
+	<td class='pollText'>Somewhat Important. It adds more variety for the community!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='167'></td>
+	<td class='pollText'>Not Important. I only play with the officially released content.</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td colspan='4' align='center'><input type='submit' class='inputControl' value='Vote'></td>
+</tr>
+<tr>
+	<td colspan='4' align='center'><a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=pollAllResult' class='link'>Result</a></td>
+</tr>
+<tr>
+	<td colspan='4' height='5' align='center'></td>
+</tr>
+<tr valign='bottom'>
+	<td colspan='4' height='5' align='center'><a class='newsHeader'  href='http://www.stormregion.com/forum/viewtopic.php?t=293'><b>Forum</b></a></td>
+</tr>
+</table>
+</form>
+
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='100%' cellpadding='0' cellspacing='0' border='0'>
+
+<tr>
+	<td colspan='2'><img src='./templates/base/images/screenShot/header.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' height='5'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='bottom' height='101' width='135'>
+	<a href='javascript:void(0);' onclick="window.open('pages/viewImage.php?image=admin/screenshot/304_THUMB.jpg&amp;sender=[SR]nszf','','screenx=50, screeny=50,width=1024,height=768,statusbar=0,scrollbars=1');">
+	<img src='admin/screenshot/304_THUMB.jpg' width='126' border='0' alt='' title=''></a></td>
+	<td width='9'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='middle' height='21' width='135'>
+	<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=sotw' class='blackLink'>More</a>
+	<td width='9'></td>
+</tr>
+<tr><td height='1' colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></tr>
+</table>
+
+</td><input type='hidden' name='activepage2' value='download.php'><input type='hidden' name='activemenuid2' value='rfb'><input type='hidden' name='activesubmenuid2' value='rfb_download'><input type='hidden' name='activeprojectid2' value='104'><input type='hidden' name='articleid2' value=''><td width='712' bgcolor='#DBDBDB' valign='top'><table cellpadding='5' cellspacing='0' border='0' bgcolor='#DBDBDB' width='100%'><tr><td><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/download/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/download/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='awardHeader'>Rush For Berlin</td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><img src='./templates/base/images/download/headerRightCorner.gif' alt='' title=''></td>
+</tr></table>
+
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin developer tools - advanced pack</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>RFB_Advanced_Mod.rar (18.31 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=188&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=188','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-09-06</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>Some developer tools (editor, packers) with description for advance modders.</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for the Bomb trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>rush_for_berlin_rush_for_the_bomb_gc_2006_trailer.wmv (46.36 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=187&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=187','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-08-31</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>Rush for the Bomb trailer made for the Games Convention 2006</td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin 1.2 patch</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>RfB_Patch_1.20.exe (93.17 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=185&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=185','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-08-21</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>This patch brings ALL previous language versions up to 1.20 (multiplayer compatible).</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin developer tools - beginner pack</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>RFB_Beginner_Mod.rar (16.15 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=186&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=186','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-08-21</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>Some developer tools (editor, packers) with description for beginners.</td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin 1.1 patch</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>RfB_Patch_1.1.exe (74.81 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=184&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=184','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-06-15</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>This patch brings ALL previous language versions up to 1.1 (multiplayer compatible)</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin walkthrough</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>RFBWalkthrough.rar (11.69 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=183&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=183','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-31</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>Memo to all Field Commanders: We have obtained a series of Aerial Reconnaissance Photos that you can use to help win the War. Use them to your advantage. Study them carefully. Know your enemy and foil his plans. Good luck Gentlemen!!!! </td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin multiplayer demo</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>setup_multidemo_en.exe (295.38 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=182&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=182','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-24</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>Challenge your opponents to join you on the field of battle in Skirmish or R.U.S.H. Modes. Pit your skills against an online enemy where the one who uses his troops wisely will win the day. Use your officers, use your skills and use your cunning and victory will be yours!</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin &quot;Allied&quot; trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>Trailer_Allied_xvid.avi (22.20 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=180&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=180','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-23</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>Allied campaign trailer</td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin &quot;Russian&quot; trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>trailer_russian_xvid.avi (35.91 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=179&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=179','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-23</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>Russian campaign trailer</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin single player demo</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>setup_us.exe (337.98 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=177&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=177','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-09</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>The Player will play for Germany and fight the Red Army in 1945 near Vienna at the strategic Kahlenberg Heights. The demo offers main, optional and secret objectives and offers next to the officers also panzers like the Sturmtiger, Koenigstiger and Panther. Also the player controls a factory and infantry units, also offering special skills. </td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin &quot;German&quot; trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>German_trailer.avi (40.76 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=178&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=178','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-05-09</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>The trailer focuses on the actions of the German forces, transporting strategy gamers right to the center of action and whetting their appetite for conquest and glory in the hunt to be in control of the German capital.</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin video #4</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>rfb_lolli_xvid.avi (20.58 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=172&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=172','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-02-13</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>Scared of something different? video</td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>Rush for Berlin video #3</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>rfb_skill_xvid.avi (16.88 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=171&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=171','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2006-02-13</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>Mad skills video</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#EAEAEA'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#EAEAEA'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>RFB second trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>rush_for_berlin_trailer_2.avi (171.45 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=157&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=157','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download2.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line2.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2005-09-03</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td colspan='2' class='downloadText'>The second trailer first brought out at Games Convention 2005.</td>
+</tr>
+<tr bgcolor='#EAEAEA'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr bgcolor='#DBDBDB'>
+	<td width='12'></td>
+	<td>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+		<tr bgcolor='#DBDBDB'>
+			<td align='left' valign='middle'><table cellpadding='0' cellspacing='0' border='0'>
+				<tr><td height='2'></td></tr>
+				<tr>
+					<td class='downloadTitle'>RFB E3 trailer</td>
+				</tr>
+				<tr><td height='1'></td></tr>
+				<tr>
+					<td class='downloadSize'>rushforberlin_e3_trailer_high.avi (68.42 Mb)</td>
+				</tr>
+		</table>
+	</td>
+	<td align='right' valign='middle'>
+			<a class='newsRelatedLink' href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;fileID=158&amp;activePage=downloadSection.php'>
+			<!--<a href='javascript:void(0);' onclick="window.open('pages/downloadManager.php?fileID=158','','screenx=50, screeny=50,width=320,height=240,statusbar=1,scrollbars=1');">-->
+			<img src='./templates/base/images/download/download1.gif' border='0' alt='Download it!' title='Download it!'></a></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr><td width='591' style='background-image: url(./templates/base/images/download/line1.gif)'></td>
+			<td align='right' class='downloadDate'>&nbsp;&nbsp;2005-05-20</td></tr>
+	</table></td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td colspan='2' class='downloadText'>The first trailer of the game in high resolution made for E3 2005.</td>
+</tr>
+<tr bgcolor='#DBDBDB'>
+	<td height='2' colspan='2'></td>
+</tr>
+</table>
+
+</td><td width='12'></td></tr><tr><td colspan='2' height='2'></td></tr></table>
+<table><tr><td height='6'></td></tr></table>
+
+
+</td></tr></table></td><td width='144' style='background-image: url(./templates/base/images/rightBG.gif)' valign='top' align='right'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='9'><img src='./templates/base/images/box/rightSeparator.gif' alt='' title=''></td><td width='135'bgcolor='#4372A4'><form action='redirect.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;action=login&amp;forceRedirect=' method='post'>
+<table width='100%' cellpadding='3' cellspacing='0' border='0' class='simpleBlackText'>
+<tr>
+	<td align='center' class='simpleText'>
+		<b>Log In</b><br>
+		Please log in to vote!
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='text' size='15' maxlength='25' name='login' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='password' size='15' maxlength='25' name='pass' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	<input type='submit' value='Log In!' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=registration' class='link'>Registration</a>]
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;activeMenuID=forgottenPassword' class='link'>Password recovery</a>]
+	</td>
+</tr>
+</table>
+</form>
+
+</td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='144' cellpadding='0' cellspacing='0' border='0' style='background-image: url(./templates/base/images/topTopic/bgTile.gif)'>
+<tr>
+	<td colspan='2'>
+		<img src='./templates/base/images/topTopic/header.gif' alt='' title=''>
+	</td>
+</tr>
+<tr>
+	<td width='9'></td>
+	<td width='135'>
+		<table cellpadding='5' cellspacing='0' border='0' width='100%'>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=294' class='simpleText'>Availability</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=297' class='simpleText'>Great &amp; Need..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=282' class='simpleText'>Panzers - Cold W..</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=305' class='simpleText'>Game too fast! N..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=e0dd5353ace6308d8684ae09fec2d0ff&amp;t=313' class='simpleText'>Modding Units us..</a></td></tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+<img src='./templates//base/images/instore.gif' alt='In stores now' title='In stores now'></td></tr><tr><td height='26' bgcolor='#4976A6' align='center' valign='middle' class='whiteText' colspan='3'><table width='1000' cellpadding='0' cellspacing='0' border='0'>
+	<tr>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)' height='26'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerLeftSeparator.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='11'><img src='./templates/base/images/footerBlueLeft.gif' alt='' title=''></td>
+		<td width='538' style='background-image: url(./templates/base/images/footerBlueContent.gif)' align='center' valign='middle' class='copyRight'>
+		2005 © Copyright Stormregion Ltd. All rights reserved.
+		</td>
+		<td width='11'><img src='./templates/base/images/footerBlueRight.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerRightSeparator.gif' alt='' title=''></td>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)'>&nbsp;</td>
+	</tr>
+</table>
+	</td></tr></table></center></body></html>

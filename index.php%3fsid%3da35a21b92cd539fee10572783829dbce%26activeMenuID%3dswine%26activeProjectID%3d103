@@ -1,0 +1,567 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><title>StormRegion.com</title><link rel='stylesheet' href='style-sheet/style.css' type='text/css'><link rel='shortcut icon' href='style-sheet/favicon.ico'><meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=iso-8859-1'><script language='JavaScript1.2'>history.forward(1)</script></head><body style='margin: 0px;background-image: url(./templates/base/images/bgTile.gif)'><center><table cellpadding='0' cellspacing='0' border='0' width='1000' style='height:100%' bgcolor='#000000'><tr><td width='1000' height='119' colspan='3'><map name="map1">
+<area shape="rect" coords="0,0,160,20"
+  href ="index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map2">
+<area shape ="rect" coords="0,0,160,18"
+  href ="index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map3">
+<area shape ="rect" coords="0,0,140,19"
+  href ="index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<map name="map4">
+<area shape ="rect" coords="0,0,110,19"
+  href ="index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1" alt='' title=''>
+</map>
+<table width="1000"  height='144' border="0" cellpadding="0" cellspacing="0">
+	<tr style='background-image: url(./templates/base/images/header/index_02.gif); background-repeat: repeat-x;' valign='top' height='55'>
+		<td width="322">
+			<a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=-1&amp;activeProjectID=-1&amp;rulerReset=1'><img src="./templates/base/images/header/index_01.gif" width="322" height="55" alt="" border="0"></a></td>
+		<td align='left' valign='bottom'><table border="0" cellpadding="0" cellspacing="0" height='17'><tr height='15'><td>
+			<div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=pcw&amp;activeProjectID=110'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=rftb&amp;activeProjectID=109'>Rush&nbsp;for&nbsp;the&nbsp;Bomb</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=press'>Press</a></ul></li><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlpcw&amp;activeProjectID=110&amp;activeMenuID=pcw&amp;activeSubMenuID=pcw_download'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlrftb&amp;activeProjectID=109&amp;activeMenuID=rftb&amp;activeSubMenuID=rftb_download'>Rush&nbsp;for&nbsp;the&nbsp;Bomb</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='forum/index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;'>Forum</a></li><li><a>&nbsp;&nbsp;Mods</a><ul style='width:140px;'><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=pcw&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;the&nbsp;Bomb</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;Berlin</a><script type="text/javascript" src="menu/imenus_data.js"></script><script type="text/javascript" src="menu/imenus_code.js"></script>
+		</td></tr><tr height='2'><td></td></tr></table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_07.gif); background-repeat: repeat-x;' valign='top' height='62'>
+		<td colspan='2'>
+		<table width="1000" height='62' border="0" cellpadding="0" cellspacing="0">
+		<tr valign='bottom'><td rowspan="2" width="169" height="62" ><img src="./templates/base/images/header/index_04.gif" width="169" height="62" alt=""></td>
+		<td width="74" height="44" colspan="2" style='background-image: url(./templates/base/images/header/index_06.gif); background-position:top left; background-repeat: no-repeat;'></td>
+		<td rowspan="2" align='center' height="62">
+			<embed src="./templates/base/images/header/banner.swf" style="z-index: -1;"  wmode="opaque" height="55" width="445"></embed>
+			<!-- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/ca" width="445" title="NATO Harci Pilóta Toborzás!" align="bottom" height="55">
+                    		<param name="movie" value="./templates/base/images/header/banner.swf">
+              		<param name="quality" value="high">
+                    		<embed src="./templates/base/images/header/banner.swf" quality="high" name="nato_mini" style="z-index: -1;"  wmode="opaque" type="application/x" pluginspage="http://www.macromedia.com/go/getflashpl" title="NATO Harci Pilóta Toborzás!" align="allowScriptAccess=&quot;sameDomain&quot;" height="55" width="445">
+            		</object>    -->
+		</td>
+		<td width='148'></td>
+		</tr>
+		<tr>
+			<td bgcolor="#c6c6c6" height="18">
+				<img src="./templates/base/images/header/titles/headerBottomNews.gif" height="18" alt=""></td>
+			<td>
+				<img src="./templates/base/images/header/index_10.gif" width="20" height="18" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+	<tr style='background-image: url(./templates/base/images/header/index_13.gif); background-repeat: repeat-x;' valign='top' height="19">
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="19">
+		<td width="148">
+			<img src="./templates/base/images/header/index_11.gif" width="148" height="19" alt=""></td>
+		<td width="22">
+			<img src="./templates/base/images/header/index_12.gif" width="22" height="19" alt=""></td>
+		<td width='669'></td>
+		<td width="13">
+			<img src="./templates/base/images/header/index_16.gif" width="13" height="19" alt=""></td>
+		<td  width="148">
+			<img src="./templates/base/images/header/index_17.gif" width="148" height="19" alt=""></td></tr>
+		</table>
+		</td>
+	</tr>
+		<tr bgcolor='#D9D9D9' valign='top' height='8'>
+		<td colspan='2'>
+		<table width="1000"  border="0" cellpadding="0" cellspacing="0">
+		<tr height="8"><td width="212">
+			<img src="./templates/base/images/header/index_18.gif" width="212" height="8" alt=""></td>
+		<td width='575'></td>
+		<td width="213">
+			<img src="./templates/base/images/header/index_21.gif" width="213" height="8" alt=""></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+
+</td></tr><tr><td width='144' height='100%' valign='top' style='background-image: url(./templates/base/images/leftBG.gif)' align='left'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#4372A4'><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_news' class='selectedMenuText'>News</a></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td colspan='2' height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_details' class='menuText'>Details</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_download' class='menuText'>Downloads</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_gallery' class='menuText'>Screenshots</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+	<tr>
+		<td width='9'></td>
+		<td width='18'></td>
+		<td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_media&amp;serialProjectID=103' class='menuText'>Media</a></td>
+	</tr>
+	<tr>
+		<td colspan='2'></td>
+		<td height='1' style='background-image: url(./templates/base/images/extraMenu/line.gif)'></td>
+	</tr>
+	<tr>
+		<td height='5' colspan='3'></td>
+	</tr>
+<tr>
+	<td height='10' colspan='3'></td>
+</tr>
+</table>
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><img src='./templates/base/images/poll/pollHeader.gif' alt='' title=''><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='135'bgcolor='#305172'><form action='redirect.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;action=saveVote' method='post'>
+<table width='100%' cellpadding='0' cellspacing='0' border='0'>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td colspan='4' class='pollText' align='center'><b>How important are custom content tools for a game?</b></td>
+</tr>
+<tr><td colspan='4' height='7'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='165'></td>
+	<td class='pollText'>Very Important. I use Custom content tools a lot for gaming!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='166'></td>
+	<td class='pollText'>Somewhat Important. It adds more variety for the community!</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td width='2'></td>
+	<td align='right' valign='top'><input type='radio' name='pollItemID' value='167'></td>
+	<td class='pollText'>Not Important. I only play with the officially released content.</td>
+	<td width='2'></td>
+</tr>
+<tr><td colspan='4' height='8'></td></tr>
+<tr>
+	<td colspan='4' align='center'><input type='submit' class='inputControl' value='Vote'></td>
+</tr>
+<tr>
+	<td colspan='4' align='center'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=pollAllResult' class='link'>Result</a></td>
+</tr>
+<tr>
+	<td colspan='4' height='5' align='center'></td>
+</tr>
+<tr valign='bottom'>
+	<td colspan='4' height='5' align='center'><a class='newsHeader'  href='http://www.stormregion.com/forum/viewtopic.php?t=293'><b>Forum</b></a></td>
+</tr>
+</table>
+</form>
+
+</td><td width='9'><img src='./templates/base/images/box/leftSeparator.gif' alt='' title=''></td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='100%' cellpadding='0' cellspacing='0' border='0'>
+
+<tr>
+	<td colspan='2'><img src='./templates/base/images/screenShot/header.gif' alt='' title=''></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' height='5'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='bottom' height='101' width='135'>
+	<a href='javascript:void(0);' onclick="window.open('pages/viewImage.php?image=admin/screenshot/304_THUMB.jpg&amp;sender=[SR]nszf','','screenx=50, screeny=50,width=1024,height=768,statusbar=0,scrollbars=1');">
+	<img src='admin/screenshot/304_THUMB.jpg' width='126' border='0' alt='' title=''></a></td>
+	<td width='9'></td>
+</tr>
+<tr>
+	<td bgcolor='#F4F4F4' align='center' valign='middle' height='21' width='135'>
+	<a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=sotw' class='blackLink'>More</a>
+	<td width='9'></td>
+</tr>
+<tr><td height='1' colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></tr>
+</table>
+
+</td><input type='hidden' name='activepage2' value='news.php'><input type='hidden' name='activemenuid2' value='swine'><input type='hidden' name='activesubmenuid2' value='swine_news'><input type='hidden' name='activeprojectid2' value='103'><input type='hidden' name='articleid2' value=''><td width='712' bgcolor='#DBDBDB' valign='top'><table cellpadding='5' cellspacing='0' border='0' bgcolor='#DBDBDB' width='100%'><tr><td><table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td height='1' bgcolor='#B11011'></td>
+</tr>
+<tr>
+	<td>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td width='1' bgcolor='#B11011'></td>
+			<td>
+			<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+				<tr>
+					<td align='left' class='newsText' bgcolor='#FFFCDF'>
+						<img align='Left' src='admin/fileGallery/swinedoboz.jpg' class='newsImageLeft' alt='' title=''>S.W.I.N.E. is a real-time tactical strategy game in which you must carry out extremely varied missions while taking advantage of the terrain and your units’ special abilities. Your army’s abilities and strengths will then develop over the course of the game. Before and during the missions, you will also have the opportunity to purchase or sell units, and upgrade or augment them with various items of equipment. However, this will cost you some of the strategic points (SP) you receive for destroying enemy objects (units, buildings, etc.) and for successfully completing your missions. Further strategical components include the use of the air force and supply trailers (repairs, ammunition, and fuel). Clever exploitation of the terrain, selecting the proper units, and the optimum utilization of your abilities will enable even a small force to do battle against an enemy with numerical superiority.
+						<br><br>
+						<a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeSubMenuID=swine_details&amp;activeMenuID=swine' class='infoHeaderLink'>more details..</a>
+					</td>
+				</tr>
+			</table>
+			</td>
+			<td width='1' bgcolor='#B11011'></td>
+		</tr>
+		</table>
+	</td>
+</tr>
+<tr>
+	<td height='1' bgcolor='#B11011'></td>
+</tr>
+</table>
+<br>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;articleID=191&amp;activeMenuID=swine' border='0'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title='' border='0'></a></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>S.W.I.N.E. patch</td>
+				<td class='newsDate' align='right' valign='middle'>2006-01-06</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					For those who own the retail version of S.W.I.N.E., patch v1.9 is now available to download (English,  French and German version):<br><br><a href='admin/fileGallery/swine_1.9_patch_en.zip' class='parseLink' target='_blank'>English patch</a><br><a href='admin/fileGallery/swine_1.9_patch_fr.zip' class='parseLink' target='_blank'>French patch</a><br><a href='admin/fileGallery/swine_1.9_patch_de.zip' class='parseLink' target='_blank'>German patch</a><br><br>S.W.I.N.E. Free Edition can`t be updated, it`s already v1.9.<br><br><b>Update</b><br>Mirror:<br><a href='http://www.3dgamers.com/games/swine/downloads/' class='parseLink' target='_blank'>3dgamers.com</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;articleID=190&amp;activeMenuID=swine' border='0'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title='' border='0'></a></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Over 100.000 S.W.I.N.E. downloads</td>
+				<td class='newsDate' align='right' valign='middle'>2006-01-03</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					In less than two weeks the worldwide downloads of S.W.I.N.E. have reached 100.000!<br>Big thanks to everybody who downloaded and played the game and to those sites that helped us with placing the files on their servers.
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;articleID=189&amp;activeMenuID=swine' border='0'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title='' border='0'></a></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>S.W.I.N.E. Free Christmas Edition</td>
+				<td class='newsDate' align='right' valign='middle'>2005-12-20</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<a href='javascript:void(0);' onclick="window.open('admin/fileGallery/happy1.jpg','','screenx=100, screeny=50,width=920,height=1320,statusbar=0,scrollbars=1');"><img align='Left' src='admin/fileGallery/happy2.jpg' class='newsImageLeft' alt='' title=''></a>Stormregion wishes a Merry Christmas and a Prosperous New Year to all stategy game fan with the <b>full </b>English, German and French version of S.W.I.N.E.<br>Don`t be a Carrotland-rabbit, download and play: the National Pig Army authorized the free usage of this software.<br><br>You can download the game from the following BitTorrent links:<br><a href='http://bittorrent.stormregion.com/download.php/9/swine_en.exe.torrent' class='parseLink' target='_blank'><b>English S.W.I.N.E.</b></a><br><br><b>English</b> non-torrent mirrors: <br><a href='http://www.gamershell.com/download_11942.shtml' class='parseLink' target='_blank'>www.gamershell.com</a><br><a href='http://www.playfuls.com/gamespace_1120_download_472_SWINE_full_game.html' class='parseLink' target='_blank'>www.playfuls.com</a><br><a href='http://www.3dgamers.com/games/swine/downloads/' class='parseLink' target='_blank'>www.3dgamers.com</a><br><a href='http://www.fragzunlimited.com/modules.php?name=Downloads&amp;d_op=viewdownloaddetails&amp;cid=397&amp;lid=387&amp;ttitle=Swine%20Full%20Free%20English%20Game' class='parseLink' target='_blank'>www.fragzunlimited.com</a><br><a href='http://www.fileplanet.com/159468/150000/fileinfo/SWINE-%5BFREE-Game%5D?r=5' class='parseLink' target='_blank'>www.fileplanet.com</a><br><a href='http://files.filefront.com/FILE_VOTE/;4499660;5;/fileinfo.html' class='parseLink' target='_blank'>www.filefront.com</a><br><a href='http://www.fz.se/filarkiv/?file=spel/swine/swine_en.exe' class='parseLink' target='_blank'>www.fz.se</a><br><a href='http://download.winboard.org/downloads.php?release_id=1189' class='parseLink' target='_blank'>www.winboard.org</a><br><br><a href='http://bittorrent.stormregion.com/download.php/8/swine_de.exe.torrent' class='parseLink' target='_blank'><b>German S.W.I.N.E.</b></a><br><br><b>German</b> non-torrent mirrors:<br><a href='http://www.gamershell.com/download_11982.shtml' class='parseLink' target='_blank'>www.gamershell.com</a><br><a href='http://download.freenet.de/archiv_s/swine_7719.html ' class='parseLink' target='_blank'>freenet.de</a><br><a href='http://www.fragzunlimited.com/modules.php?name=Downloads&amp;d_op=viewdownloaddetails&amp;cid=397&amp;lid=389&amp;ttitle=Swine%20Full%20Free%20Deutsch%20Game#dldetails' class='parseLink' target='_blank'>www.fragzunlimited.com</a><br><a href='http://www.tahiroglu.de/' class='parseLink' target='_blank'>www.tahiroglu.de</a><br><a href='http://www.pcwelt.de/downloads/entertainment_spiele/spiele/128429/' class='parseLink' target='_blank'>www.pcwelt.de</a><br><a href='http://www.gamesdesk.de/index.php?layout=show_downloads&amp;did=586&amp;stats=down' class='parseLink' target='_blank'>www.gamedesk.de</a><br><br><a href='http://bittorrent.stormregion.com/download.php/10/swine_fr.exe.torrent' class='parseLink' target='_blank'><b>French S.W.I.N.E.</b></a><br><br><b>French </b>non-torrent mirror:<br><a href='http://www.gamershell.com/download_12028.shtml' class='parseLink' target='_blank'>www.gamershell.com</a><br><a href='http://www.fragzunlimited.com/modules.php?name=Downloads&amp;d_op=viewdownloaddetails&amp;cid=397&amp;lid=398&amp;ttitle=Swine%20Full%20Free%20French%20Game#dldetails' class='parseLink' target='_blank'>www.fragzunlimited.com</a><br><br>(we are still waiting for mirrors... Got one? Please email: info@stormregion.com)<br><br>(help: to download the software, you`ll need a BitTorrent client like <a href='http://azureus.sourceforge.net/download.php' class='parseLink' target='_blank'>Azureus</a>)
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;articleID=188&amp;activeMenuID=swine' border='0'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title='' border='0'></a></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Free roast P.O.R.K. served by Stormregion - 5 days to go!</td>
+				<td class='newsDate' align='right' valign='middle'>2005-12-15</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/swine.jpg' class='newsImageLeft' alt='' title=''><br>Four years in a H.O.G.`s life can be a long period, but you`ll be wrong if you think a veteran P.I.G. is an old P.I.G.<br>That`s why Stormregion invites everybody directly to the fireplace who wants to get a full S.O.W. menu. Don`t be afraid, because everybody will get his portion.<br>We`ll meet on 20th December on www.stormregion.com! Attaaaaaaack!
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+<tr>
+	<td width='12' height='19'><img src='./templates/base/images/news/headerLeftCorner.gif' alt='' title=''></td>
+	<td height='19' style='background-image: url(./templates/base/images/news/headerTile.gif)' width='100%' class='yellowLink'>
+		<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+		<tr>
+			<td class='newsHeader'></td>
+			<td align='right'></td>
+		</tr>
+		</table>
+	</td>
+	<td width='29' height='19'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;articleID=173&amp;activeMenuID=swine' border='0'><img src='./templates/base/images/news/headerRightCorner.gif' alt='' title='' border='0'></a></td>
+</tr>
+<tr>
+	<td colspan='3'>
+
+	<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+	<tr>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td>
+		<td>
+		<table cellpadding='12' cellspacing='0' border='0' width='100%'>
+			<tr>
+				<td align='left' class='newsText'>
+				<table cellpadding='0' cellspacing='0' border='0' width='100%'>
+				<tr><td class='newsTitle'>Stormregion sign contract with 10TACLE to secure rights to Codename Panzers II</td>
+				<td class='newsDate' align='right' valign='middle'>2005-09-04</td></tr>
+				<tr><td colspan='2' valign='top' height='10'></td></tr>
+				<tr><td class='newsLastComment' colspan='2' valign='top' height='1'></td></tr>
+				</table>
+					<img align='Left' src='admin/fileGallery/10t-mainlogo.gif' class='newsImageLeft' alt='' title=''>The official successor to the successful strategy series by Stormregion will presumably open the fire again in 2008.<br>With the second part of Codename Panzers 10TACLE STUDIOS AG for the first time explore the segment of real-time strategy games. 10TACLE are particularly proud to work with the experienced Stormregion team which was able to set standards in this genre quite a few times. "Codename Panzers II" will be designed as a complete new development and even the setting will leave the World War II scenario. The game is supposed to be released for PC in 2008, more adaptions to other gaming consoles are being discussed. 
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<table cellpadding='0' cellspacing='0' width='100%'>
+					<tr>
+						<td align='left' valign='top' class='newsLastComment'>
+						</td>
+						<td align='right' valign='top'>
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td width='1' style='background-image: url(./templates/base/images/news/border.gif)'></td></tr>
+	</table>
+
+	</td>
+</table>
+<table cellpadding='2' cellspacing='0' border='0' align='center'><tr><td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=spf' class='pageInactive'>&lt;&lt;</a></td><td width='1'></td><td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=spb' class='pageInactive'>&lt;</a></td><td width='2'></td><td align='center'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=0&amp;activeMenuID=swine' class='pageActive'>1</a></td><td class='pageInactive' align='center' width='2'>|</td><td align='center'><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=1&amp;activeMenuID=swine' class='pageInactive'>2</a></td><td width='2'></td><td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=spn' class='pageInactive'>&gt;</a></td><td width='1'></td><td><a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;pageNumber=spl' class='pageInactive'>&gt;&gt;</a></td></tr></table></td></tr></table></td><td width='144' style='background-image: url(./templates/base/images/rightBG.gif)' valign='top' align='right'><table cellpadding='0' cellspacing='0' border='0' width='144'><tr><td width='9'><img src='./templates/base/images/box/rightSeparator.gif' alt='' title=''></td><td width='135'bgcolor='#4372A4'><form action='redirect.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;action=login&amp;forceRedirect=' method='post'>
+<table width='100%' cellpadding='3' cellspacing='0' border='0' class='simpleBlackText'>
+<tr>
+	<td align='center' class='simpleText'>
+		<b>Log In</b><br>
+		
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='text' size='15' maxlength='25' name='login' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center' valign='top'>
+	<input type='password' size='15' maxlength='25' name='pass' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	<input type='submit' value='Log In!' class='inputControl'>
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=registration' class='link'>Registration</a>]
+	</td>
+</tr>
+<tr>
+	<td align='center'>
+	[<a href='index.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;activeMenuID=forgottenPassword' class='link'>Password recovery</a>]
+	</td>
+</tr>
+</table>
+</form>
+
+</td></tr><tr><td colspan='2'><img src='./templates/base/images/separator.gif' alt='' title=''></td></table><table width='144' cellpadding='0' cellspacing='0' border='0' style='background-image: url(./templates/base/images/topTopic/bgTile.gif)'>
+<tr>
+	<td colspan='2'>
+		<img src='./templates/base/images/topTopic/header.gif' alt='' title=''>
+	</td>
+</tr>
+<tr>
+	<td width='9'></td>
+	<td width='135'>
+		<table cellpadding='5' cellspacing='0' border='0' width='100%'>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;t=439' class='simpleText'>Codename: Panzer..</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;t=464' class='simpleText'>Chemical Weapons..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;t=449' class='simpleText'>Allied Campaign ..</a></td></tr>
+			<tr><td bgcolor='#305172'><a href='forum/viewtopic.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;t=454' class='simpleText'>I have &quot;cav..</a></td></tr>
+			<tr><td bgcolor='#27415C'><a href='forum/viewtopic.php?sid=5e12f6e29b42c12c6cdfaf3c1141c737&amp;t=459' class='simpleText'>Hitler's secret ..</a></td></tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+<img src='./templates//base/images/instore.gif' alt='In stores now' title='In stores now'></td></tr><tr><td height='26' bgcolor='#4976A6' align='center' valign='middle' class='whiteText' colspan='3'><table width='1000' cellpadding='0' cellspacing='0' border='0'>
+	<tr>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)' height='26'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerLeftSeparator.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='11'><img src='./templates/base/images/footerBlueLeft.gif' alt='' title=''></td>
+		<td width='538' style='background-image: url(./templates/base/images/footerBlueContent.gif)' align='center' valign='middle' class='copyRight'>
+		2005 © Copyright Stormregion Ltd. All rights reserved.
+		</td>
+		<td width='11'><img src='./templates/base/images/footerBlueRight.gif' alt='' title=''></td>
+		<td width='76' style='background-image: url(./templates/base/images/footerContent2.gif)'>&nbsp;</td>
+		<td width='9'><img src='./templates/base/images/footerRightSeparator.gif' alt='' title=''></td>
+		<td width='135' style='background-image: url(./templates/base/images/footerContent1.gif)'>&nbsp;</td>
+	</tr>
+</table>
+	</td></tr></table></center></body></html>

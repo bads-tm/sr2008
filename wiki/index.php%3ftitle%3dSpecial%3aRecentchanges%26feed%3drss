@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="http://www.stormregion.com/wiki/skins/common/feed.css"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>StormWiki - Recent changes [en]</title>
+		<link>http://www.stormregion.com/wiki/index.php/Special:Recentchanges</link>
+		<description>Track the most recent changes to the wiki on this page.</description>
+		<language>en</language>
+		<generator>MediaWiki 1.6.6</generator>
+		<lastBuildDate>Tue, 20 Feb 2007 21:03:01 GMT</lastBuildDate>
+	</channel>
+</rss>

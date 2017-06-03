@@ -1,0 +1,842 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+
+<link rel="top" href="./index.php?sid=8495bc2ae0dd841688b43c14c8513919" title="StormRegion.com Forum Index" />
+<link rel="search" href="./search.php?sid=8495bc2ae0dd841688b43c14c8513919" title="Search" />
+<link rel="help" href="./faq.php?sid=8495bc2ae0dd841688b43c14c8513919" title="FAQ" />
+<link rel="author" href="./memberlist.php?sid=8495bc2ae0dd841688b43c14c8513919" title="Memberlist" />
+
+<title>StormRegion.com :: Search</title>
+<!-- link rel="stylesheet" href="templates/subSilver/subSilver.css" type="text/css" -->
+<style type="text/css">
+<!--
+/*
+  The original subSilver Theme for phpBB version 2+
+  Created by subBlue design
+  http://www.subBlue.com
+
+  NOTE: These CSS definitions are stored within the main page body so that you can use the phpBB2
+  theme administration centre. When you have finalised your style you could cut the final CSS code
+  and place it in an external file, deleting this section to save bandwidth.
+*/
+
+/* General page style. The scroll bar colours only visible in IE5.5+ */
+body {
+	background-color: #E5E5E5;
+	scrollbar-face-color: #DEE3E7;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #DEE3E7;
+	scrollbar-3dlight-color: #D1D7DC;
+	scrollbar-arrow-color:  #006699;
+	scrollbar-track-color: #EFEFEF;
+	scrollbar-darkshadow-color: #98AAB1;
+}
+
+.loginText{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #000000;
+  font-style: normal
+}
+.myTRClass{color: #FFFFFF;}
+/* General font families for common tags */
+font,th,td,p { font-family: Verdana, Arial, Helvetica, sans-serif }
+a:link,a:active,a:visited { color : #006699; }
+a:hover		{ text-decoration: underline; color : #DD6900; }
+
+hr	{ height: 0px; border: solid #D1D7DC 0px; border-top-width: 1px;}
+
+/* This is the border line & background colour round the entire page */
+.bodyline	{ background-color: #FFFFFF; border: 1px #98AAB1 solid; }
+
+/* This is the outline round the main forum tables */
+.forumline	{ background-color: #FFFFFF; border: 0px #B2B2B2 solid; }
+
+/* Main table cell colours and backgrounds */
+td.row1	{ background-color: #DCDCDC; }
+td.row2	{ background-color: #C3C4C5; }
+td.row3	{ background-color: #D1D7DC; }
+td.row4	{ background-color: #C3C4C5; }
+td.row5	{ background-color: #45709F; }
+.row6 {background-color: #45709F;
+		 color: #FFFFFF}
+/*
+  This is for the table cell above the Topics, Post & Last posts on the index.php page
+  By default this is the fading out gradiated silver background.
+  However, you could replace this with a bitmap specific for each forum
+*/
+td.rowpic {
+		background-color: #FFFFFF;
+		background-image: url(templates/subSilver/newimages/emptyRowBG.gif);
+		background-repeat: repeat-y;
+}
+
+/* Header cells - the blue and silver gradient backgrounds */
+th	{
+	color: #FFFFFF; font-size: 11px; font-weight : bold;
+	background-color: #006699; height: 25px;
+	background-image: url(templates/subSilver/images/cellpic3.gif);
+}
+
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom {
+			background-image: url(templates/subSilver/newimages/mainRowBG.gif);
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 31px;
+}
+td.rowWhite{
+		background-image: url(templates/subSilver/newimages/mainRowLighterBG.gif);
+		background-color:#D1D7DC; border: #FFFFFF; height: 16px;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+td.cat,td.catHead,td.catBottom {
+	height: 29px;
+	border-width: 0px 0px 0px 0px;
+}
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR {
+	font-weight: bold;
+	border: #FFFFFF; border-style: solid; height: 16px;
+	background-image: url(templates/subSilver/newImages/forumHeader.gif);
+}
+td.row3Right,td.spaceRow {
+	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;
+}
+
+th.thHead,td.catHead { font-size: 12px; border-width: 1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow	 { border-width: 0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right	 { border-width: 0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width: 0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width: 0px 1px 1px 1px; }
+th.thTop	 { border-width: 1px 0px 0px 0px; }
+th.thCornerL { border-width: 1px 0px 0px 1px; }
+th.thCornerR { border-width: 1px 1px 0px 0px; }
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle	{
+	font-weight: bold; font-size: 22px; font-family: "Trebuchet MS",Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none; line-height : 120%; color : #000000;
+}
+a.maintitle		{ text-decoration: none; color : #006699;  }
+a.maintitle:hover{ text-decoration: underline; color : #DD6900; }
+a.forumnavig		{ text-decoration: none; color : #DD6900;  }
+a.forumnavig:hover{ text-decoration: underline; color : #006699; }
+
+/* General text */
+.gen { font-size : 12px; }
+.genmed { font-size : 11px; }
+.gensmall { font-size : 10px; }
+.gen,.genmed,.gensmall { color : #000000; }
+a.gen,a.genmed,a.gensmall { color: #00659C; text-decoration: none; }
+a.gen:hover,a.genmed:hover,a.gensmall:hover	{ color: #00659C; text-decoration: underline; }
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu		{ font-size : 11px; color : #000000 }
+a.mainmenu		{ text-decoration: none; color : #006699;  }
+a.mainmenu:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Forum category titles */
+.cattitle		{ font-weight: bold; font-size: 12px ; letter-spacing: 1px; color : #FFFFFF}
+a.cattitle		{ text-decoration: none; color : #FFFFFF; }
+a.cattitle:hover{ text-decoration: underline; }
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink		{ font-weight: bold; font-size: 12px; color : #006699; }
+a.forumlink 	{ text-decoration: none; color : #006699; }
+a.forumlink:hover{ text-decoration: underline; color : #DD6900; }
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav			{ font-weight: bold; font-size: 11px; color : #000000;}
+.adminNav		{ font-weight: bold; font-size: 11px; color : #FFFFFF;}
+a.nav			{ text-decoration: none; color : #000000; }
+a.adminNav			{ text-decoration: none; color : #FFFFFF; }
+a.nav:hover		{ text-decoration: underline; }
+a.adminNav:hover		{ text-decoration: underline; }
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle,h1,h2	{ font-weight: bold; font-size: 11px; color : #000000; }
+a.topictitle:link   { text-decoration: none; color : #006699; }
+a.topictitle:visited { text-decoration: none; color : #5493B4; }
+a.topictitle:hover	{ text-decoration: underline; color : #DD6900; }
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name			{ font-size : 11px; color : #000000;}
+.adminName	{ font-size : 11px; color : #FFFFFF;}
+/* Location, number of posts, post date etc */
+.postdetails		{ font-size : 10px; color : #000000; }
+.adminPostDetails  		{ font-size : 10px; color : #FFFFFF; }
+/* The content of the posts (body of text) */
+.postbody { font-size : 12px; line-height: 18px}
+.postAdminBody { color : #FFFFFF; font-size : 12px; line-height: 18px}
+a.postlink:link	{ text-decoration: none; color : #006699 }
+a.postlink:visited { text-decoration: none; color : #5493B4; }
+a.postlink:hover { text-decoration: underline; color : #DD6900}
+
+/* Quote & Code blocks */
+.code {
+	font-family: Courier, 'Courier New', sans-serif; font-size: 11px; color: #006600;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+.quote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #444444; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+
+.adminQuote {
+	font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; line-height: 125%;
+	background-color: #FAFAFA; border: #D1D7DC; border-style: solid;
+	border-left-width: 1px; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px
+}
+
+
+/* Copyright and bottom info */
+.copyright		{ font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; color: #444444; letter-spacing: -1px;}
+a.copyright		{ color: #444444; text-decoration: none;}
+a.copyright:hover { color: #000000; text-decoration: underline;}
+
+/* Form elements */
+input,textarea, select {
+	color : #000000;
+	font: normal 11px Verdana, Arial, Helvetica, sans-serif;
+	border-color : #000000;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+	background-color : #FFFFFF;
+}
+
+input { text-indent : 2px; }
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+	background-color : #EFEFEF;
+	color : #000000;
+	font-size: 11px; font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* The main submit button option */
+input.mainoption {
+	background-color : #FAFAFA;
+	font-weight : bold;
+}
+
+/* None-bold submit button */
+input.liteoption {
+	background-color : #FAFAFA;
+	font-weight : normal;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline { background-color: #DEE3E7; border-style: none; }
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function) */
+@import url("templates/subSilver/formIE.css");
+-->
+</style>
+</head>
+<body topmargin = '0' leftmargin = '0' bottommargin = '0' rightmargin = '0' bgcolor="#E5E5E5" text="#000000" link="#006699" vlink="#5493B4" background = 'images/bgTile.gif'>
+<map name="map1">
+<area shape = "rect" coords ="0,0,160,20"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map2">
+<area shape ="rect" coords ="0,0,160,18"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map3">
+<area shape ="rect" coords ="0,0,140,19"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<map name="map4">
+<area shape ="rect" coords ="0,0,110,19"
+  href ="../index.php?sid=&activeMenuID=-1&activeProjectID=-1"/>
+</map>
+<a name="top"></a>
+
+<table width="1000" cellspacing="0" cellpadding="0" border="0" align="center" bgcolor="#E5E5E5">
+	<tr>
+		<td class="bodylie"><table width="1000" cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td>
+<table cellpadding = '0' cellspacing = '0' border = '0' width = '1000' height = '119'>
+<tr>
+	<td width = '855' height = '119'><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '119'>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '36'>
+				<tr>
+					<td width = '308'><a href = '../index.php?sid=&activeMenuID=-1&activeProjectID=-1'><img src = '../templates/base/images/header/headerTop1.gif' border = '0'></a></td>
+					<td width = '547' background = '../templates/base/images/header/headerTop2.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '15'>
+				<tr>
+					<td width = '320'><a href = '../index.php?sid=&activeMenuID=-1&activeProjectID=-1'><img src = '../templates/base/images/header/headerMiddle1.gif' border = '0'></a></td>
+					<td width = '535' background = '../templates/base/images/header/headerMiddle2.gif'><div style='display:none;z-index:0;'><ul id='imenus0'><li><a>Games</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=pcw&amp;activeProjectID=110'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='../index.php?sid=&amp;activeMenuID=rftb&amp;activeProjectID=109'>Rush&nbsp;for&nbsp;the&nbsp;Bomb</a><li><a href='../index.php?sid=&amp;activeMenuID=rfb&amp;activeProjectID=104'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='../index.php?sid=&amp;activeMenuID=cpph2&amp;activeProjectID=101'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='../index.php?sid=&amp;activeMenuID=cpph1&amp;activeProjectID=100'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='../index.php?sid=&amp;activeMenuID=swine&amp;activeProjectID=103'>S.W.I.N.E.</a></ul></li><li><a>Stormregion&nbsp;Info</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=about'>About&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=contact'>Contact&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=job'>Jobs&nbsp;at&nbsp;Stormregion</a><li><a href='../index.php?sid=&amp;activeMenuID=award&amp;activeProjectID=-1'>Media&nbsp;/&nbsp;Awards</a><li><a href='../index.php?sid=&amp;activeMenuID=press'>Press</a></ul></li><li><a href='../index.php?sid=&amp;activeMenuID=downloads&amp;activeProjectID=-1'>Downloads</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=dlpcw&amp;activeProjectID=110&amp;activeMenuID=pcw&amp;activeSubMenuID=pcw_download'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='../index.php?sid=&amp;activeMenuID=dlrftb&amp;activeProjectID=109&amp;activeMenuID=rftb&amp;activeSubMenuID=rftb_download'>Rush&nbsp;for&nbsp;the&nbsp;Bomb</a><li><a href='../index.php?sid=&amp;activeMenuID=dlrfb&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=rfb_download'>Rush&nbsp;For&nbsp;Berlin</a><li><a href='../index.php?sid=&amp;activeMenuID=dlcpph2&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=cpph2_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='../index.php?sid=&amp;activeMenuID=dlcpph1&amp;activeProjectID=100&amp;activeMenuID=cpph1&amp;activeSubMenuID=cpph1_download'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;One</a><li><a href='../index.php?sid=&amp;activeMenuID=dlswine&amp;activeProjectID=103&amp;activeMenuID=swine&amp;activeSubMenuID=swine_download'>S.W.I.N.E.</a></ul></li><li><a href='../forum/index.php?sid=&amp;'>Forum</a></li><li><a>&nbsp;&nbsp;Mods</a><ul style='width:140px;'><li><a href='../index.php?sid=&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=pcw&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;-&nbsp;Cold&nbsp;War</a><li><a href='../index.php?sid=&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;the&nbsp;Bomb</a><li><a href='../index.php?sid=&amp;activeMenuID=mods&amp;activeProjectID=101&amp;activeMenuID=cpph2&amp;activeSubMenuID=mod'>Codename:&nbsp;Panzers&nbsp;Phase&nbsp;Two</a><li><a href='../index.php?sid=&amp;activeMenuID=mods2&amp;activeProjectID=104&amp;activeMenuID=rfb&amp;activeSubMenuID=mod2'>Rush&nbsp;For&nbsp;Berlin</a><script language="JavaScript" src="../menu/imenus_data.js"></script><script language="JavaScript" src="../menu/imenus_code.js"></script></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '20'>
+				<tr>
+					<td width = '855'><img src = '../templates/base/images/header/headerBottom.gif' usemap = '#map1' border = '0'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '18'>
+				<tr>
+					<td width = '169'><img src = '../templates/base/images/header/headerTitle1.gif' usemap = '#map2' border = '0'></td>
+					<td><img src = '../templates/base/images/header/titles/headerBottomForum.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '19'>
+				<tr>
+					<td width = '161'><img src = '../templates/base/images/header/headerNavigator1.gif' usemap = '#map3' border = '0'></td>
+					<td width = '678' background = '../templates/base/images/header/headerNavigator2.gif' class = 'navigation' align = 'left' valign = 'middle'></td>
+					<td width = '16'><img src = '../templates/base/images/header/headerNavigator3.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		<tr>
+			<td><table cellpadding = '0' cellspacing = '0' border = '0' width = '855' height = '11'>
+				<tr>
+					<td width = '213'><img src = '../templates/base/images/header/headerFooter1.gif' usemap = '#map4' border = '0'></td>
+					<td width = '573' background = '../templates/base/images/header/headerFooter2.gif'></td>
+					<td width = '69'><img src = '../templates/base/images/header/headerFooter3.gif'></td>
+				</tr>
+				</table></td>
+		</tr>
+		</table></td>
+	<td width = '145' height = '119' background = '../templates/base/images/header/header2.gif'><table cellpadding = '0' cellspacing = '0' border = '0' width = '145' height = '119'>
+		<tr>
+			<td height = '67'>&nbsp;</td>
+		</tr>
+		<tr>
+			<td height = '33' align = 'center' valign = 'middle' class = 'loginText'><b>Logged In:</b><br></td>
+		</tr>
+		<tr>
+			<td height = '19' align = 'center' valign = 'top' class = 'loginText'>Oct 22, 2007, 2:47 pm</td>
+		</tr>
+		</table></td>
+</tr>
+</table>
+
+				<center>
+				<table cellpadding = '0' cellspacing = '0' border = '0' width = '100%'><tr><td width = '50%'></td><td>
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tr><td height = '10'></td></tr>
+					<tr>
+						<td align="center" valign="top" nowrap="nowrap"><span class="mainmenu"><a href="faq.php?sid=8495bc2ae0dd841688b43c14c8513919" class="mainmenu"><img src="templates/subSilver/images/icon_mini_faq.gif" width="12" height="13" border="0" alt="FAQ" hspace="3" />FAQ</a></span><span class="mainmenu">&nbsp; &nbsp;<a href="search.php?sid=8495bc2ae0dd841688b43c14c8513919" class="mainmenu"><img src="templates/subSilver/images/icon_mini_search.gif" width="12" height="13" border="0" alt="Search" hspace="3" />Search<!--</a>&nbsp; &nbsp;<a href="memberlist.php?sid=8495bc2ae0dd841688b43c14c8513919" class="mainmenu"><img src="templates/subSilver/images/icon_mini_members.gif" width="12" height="13" border="0" alt="Memberlist" hspace="3" />Memberlist</a>-->&nbsp; &nbsp;<a href="groupcp.php?sid=8495bc2ae0dd841688b43c14c8513919" class="mainmenu"><img src="templates/subSilver/images/icon_mini_groups.gif" width="12" height="13" border="0" alt="Usergroups" hspace="3" />Usergroups</a>&nbsp;
+					<!--	&nbsp;<a href="profile.php?mode=register&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="mainmenu"><img src="templates/subSilver/images/icon_mini_register.gif" width="12" height="13" border="0" alt="Register" hspace="3" />Register</a></span>&nbsp;-->
+						&nbsp;<a href="../index.php?sid=&activeMenuID=login" class="mainmenu"><img src="templates/subSilver/images/icon_mini_login.gif" width="12" height="13" border="0" alt="Log in" hspace="3" />Log in</a>&nbsp;&nbsp;</span>
+						</td>
+					</tr>
+					<tr><td height = '5'></td></tr>
+					<tr>
+						<td height = '1' bgcolor = '#B2B2B2'></td>
+					</tr>
+				</table>
+				</td><td align = 'right' valign = 'bottom' width = '50%'>
+				<a href="search.php?search_id=unanswered&sid=" class="gensmall">View unanswered posts</a>
+
+
+
+				</td></tr></table>
+				</center>
+
+
+
+				</td>
+			</tr>
+		</table>
+
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left" valign="bottom"><span class="maintitle">Search found 45 matches</span><br /></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" cellpadding="2" border="0" align="center">
+  <tr>
+	<td align="left"><span class="nav"><a href="index.php?sid=8495bc2ae0dd841688b43c14c8513919" class="nav">StormRegion.com Forum Index</a></span></td>
+  </tr>
+</table>
+
+<table width="100%" cellpadding="4" cellspacing="1" border="0" class="forumline" align="center">
+  <tr>
+	<th width="4%" height="25" class="thCornerL" nowrap="nowrap">&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Forum&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Topics&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Author&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Replies&nbsp;</th>
+	<th class="thTop" nowrap="nowrap">&nbsp;Views&nbsp;</th>
+	<th class="thCornerR" nowrap="nowrap">&nbsp;Last Post&nbsp;</th>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=479&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">how can I add new multiplayer maps into the game?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1442&amp;sid=8495bc2ae0dd841688b43c14c8513919">alar</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">5</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Oct 21, 2007 11:18 pm<br /><a href="profile.php?mode=viewprofile&amp;u=1442&amp;sid=8495bc2ae0dd841688b43c14c8513919">alar</a> <a href="viewtopic.php?p=3654&amp;sid=8495bc2ae0dd841688b43c14c8513919#3654"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=2&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Panzers Phase 2</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=478&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Editor and CD Protection</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=1448&amp;sid=8495bc2ae0dd841688b43c14c8513919">jean67</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">11</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Oct 21, 2007 11:54 am<br /><a href="profile.php?mode=viewprofile&amp;u=1448&amp;sid=8495bc2ae0dd841688b43c14c8513919">jean67</a> <a href="viewtopic.php?p=3653&amp;sid=8495bc2ae0dd841688b43c14c8513919#3653"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=474&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Halo in Church</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">53</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 12, 2007 4:46 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=3627&amp;sid=8495bc2ae0dd841688b43c14c8513919#3627"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_announce.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=4&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">News</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Announcement:</b> <a href="viewtopic.php?t=440&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Away to Play In Leipzig</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">189</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Aug 15, 2007 2:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=3140&amp;sid=8495bc2ae0dd841688b43c14c8513919#3140"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=401&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Soviet Tanks</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">908</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed May 30, 2007 10:18 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2746&amp;sid=8495bc2ae0dd841688b43c14c8513919#2746"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=397&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Toothpick Ship</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">474</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon May 21, 2007 11:28 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2726&amp;sid=8495bc2ae0dd841688b43c14c8513919#2726"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=372&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">New Units for Rush for Berlin</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">809</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Feb 23, 2007 2:34 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2441&amp;sid=8495bc2ae0dd841688b43c14c8513919#2441"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=2&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Panzers Phase 2</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=369&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Latest Patch Notes</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">2147</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Feb 16, 2007 1:00 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2411&amp;sid=8495bc2ae0dd841688b43c14c8513919#2411"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=3&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Panzers Phase 1</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=368&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Latest Patch Notes</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">2706</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Feb 16, 2007 12:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2410&amp;sid=8495bc2ae0dd841688b43c14c8513919#2410"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=366&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">A Rootin' Tootin' Shoot 'Em Up kind of Blood Pounding toy...</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">979</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Feb 09, 2007 1:20 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2397&amp;sid=8495bc2ae0dd841688b43c14c8513919#2397"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=363&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Star Wars with Hands...</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">697</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Feb 05, 2007 11:17 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2372&amp;sid=8495bc2ae0dd841688b43c14c8513919#2372"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_sticky.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=360&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">1.23 Compatible Modding Exe</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1068</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Jan 31, 2007 2:07 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2358&amp;sid=8495bc2ae0dd841688b43c14c8513919#2358"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=359&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Videos</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">806</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Jan 26, 2007 10:38 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2356&amp;sid=8495bc2ae0dd841688b43c14c8513919#2356"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=333&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Child's Play</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">816</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Dec 15, 2006 12:12 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2130&amp;sid=8495bc2ae0dd841688b43c14c8513919#2130"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=331&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Silly Game</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">837</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Dec 15, 2006 9:34 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2127&amp;sid=8495bc2ae0dd841688b43c14c8513919#2127"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=328&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">What Do You Fear</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1023</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Dec 06, 2006 9:36 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=2083&amp;sid=8495bc2ae0dd841688b43c14c8513919#2083"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=8&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Stormregion General</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=298&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Monday is off</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">980</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 20, 2006 2:21 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1810&amp;sid=8495bc2ae0dd841688b43c14c8513919#1810"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=13&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">The Clan Plan </a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=277&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Form a clan on RfB</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1074</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 06, 2006 7:30 am<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1625&amp;sid=8495bc2ae0dd841688b43c14c8513919#1625"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=270&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Stormwiki</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1335</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Oct 02, 2006 8:53 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1597&amp;sid=8495bc2ae0dd841688b43c14c8513919#1597"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=249&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Optional Modding Extra</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1483</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Sep 06, 2006 3:08 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1443&amp;sid=8495bc2ae0dd841688b43c14c8513919#1443"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=247&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">The Modelling Competition Begins. Start Your Engines!!!!!!!!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1721</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Sep 06, 2006 9:53 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1440&amp;sid=8495bc2ae0dd841688b43c14c8513919#1440"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=243&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Supply Trucks</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1239</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Sep 01, 2006 9:21 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1381&amp;sid=8495bc2ae0dd841688b43c14c8513919#1381"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=7&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Multiplayer issues</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=232&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">RfB Tournament</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1175</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 28, 2006 9:30 am<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1261&amp;sid=8495bc2ae0dd841688b43c14c8513919#1261"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=231&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">RfB Tournament</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1027</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 28, 2006 9:26 am<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1259&amp;sid=8495bc2ae0dd841688b43c14c8513919#1259"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=227&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Getting the Patch (1.2) to Work</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1644</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Aug 25, 2006 7:27 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1234&amp;sid=8495bc2ae0dd841688b43c14c8513919#1234"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=222&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Fixing Editor Problems</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1484</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 22, 2006 4:45 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1200&amp;sid=8495bc2ae0dd841688b43c14c8513919#1200"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=218&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">-[ab-] clan sucht Mitglieder für &quot;Rush for Berlin</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1073</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 21, 2006 3:36 pm<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1161&amp;sid=8495bc2ae0dd841688b43c14c8513919#1161"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=13&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">The Clan Plan </a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=217&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">-[ab-] clan sucht Mitglieder für &quot;Rush for Berlin</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1296</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 21, 2006 3:34 pm<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1159&amp;sid=8495bc2ae0dd841688b43c14c8513919#1159"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=209&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Error during installation of Patch</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=790&amp;sid=8495bc2ae0dd841688b43c14c8513919">Dilopho</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1746</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Aug 19, 2006 1:34 am<br /><a href="profile.php?mode=viewprofile&amp;u=790&amp;sid=8495bc2ae0dd841688b43c14c8513919">Dilopho</a> <a href="viewtopic.php?p=1125&amp;sid=8495bc2ae0dd841688b43c14c8513919#1125"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_lock.gif" width="19" height="18" alt="This topic is locked: you cannot edit posts or make replies." title="This topic is locked: you cannot edit posts or make replies." /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=13&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">The Clan Plan </a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=204&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">The RFB Clan List</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1121</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Thu Aug 17, 2006 9:27 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1095&amp;sid=8495bc2ae0dd841688b43c14c8513919#1095"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=13&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">The Clan Plan </a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=198&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">-[ab-] clan searching members on &quot;Rush for Berlin&quot;</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1091</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 15, 2006 10:04 am<br /><a href="profile.php?mode=viewprofile&amp;u=763&amp;sid=8495bc2ae0dd841688b43c14c8513919">guy594</a> <a href="viewtopic.php?p=1040&amp;sid=8495bc2ae0dd841688b43c14c8513919#1040"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=14&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Off Topic</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=197&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">I will start...</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1013</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Aug 15, 2006 9:11 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1039&amp;sid=8495bc2ae0dd841688b43c14c8513919#1039"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=8&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Stormregion General</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=194&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Custom Rigs. Sort of...</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1177</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 14, 2006 3:59 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1015&amp;sid=8495bc2ae0dd841688b43c14c8513919#1015"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_sticky.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=5&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Rush for Berlin</a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=192&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Anti Spam Filter</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1140</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Aug 14, 2006 9:26 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=1003&amp;sid=8495bc2ae0dd841688b43c14c8513919#1003"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=169&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Changing Units in Game</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1766</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Jul 07, 2006 9:45 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=831&amp;sid=8495bc2ae0dd841688b43c14c8513919#831"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=8&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Stormregion General</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=162&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Special Invitation from Caveman for Room101</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1549</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Jun 19, 2006 2:16 pm<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=772&amp;sid=8495bc2ae0dd841688b43c14c8513919#772"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=12&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Hungarian topics - Magyar nyelv&#369; témakörök</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=152&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">RFB MP  demo</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=620&amp;sid=8495bc2ae0dd841688b43c14c8513919">Crazy</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1956</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sat Jun 03, 2006 9:01 pm<br /><a href="profile.php?mode=viewprofile&amp;u=620&amp;sid=8495bc2ae0dd841688b43c14c8513919">Crazy</a> <a href="viewtopic.php?p=740&amp;sid=8495bc2ae0dd841688b43c14c8513919#740"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder_sticky.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=13&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">The Clan Plan </a></span></td>
+	<td class="row2"><span class="topictitle"><b>Sticky:</b> <a href="viewtopic.php?t=147&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Welcome to the Clan Forums</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1175</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri May 26, 2006 11:48 am<br /><a href="profile.php?mode=viewprofile&amp;u=479&amp;sid=8495bc2ae0dd841688b43c14c8513919">[SR]Caveman</a> <a href="viewtopic.php?p=708&amp;sid=8495bc2ae0dd841688b43c14c8513919#708"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=1&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">S.W.I.N.E.</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=111&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Congratulations Stormregion</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=402&amp;sid=8495bc2ae0dd841688b43c14c8513919">Crackling</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1945</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Feb 24, 2006 5:09 am<br /><a href="profile.php?mode=viewprofile&amp;u=402&amp;sid=8495bc2ae0dd841688b43c14c8513919">Crackling</a> <a href="viewtopic.php?p=458&amp;sid=8495bc2ae0dd841688b43c14c8513919#458"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=7&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Multiplayer issues</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=108&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Multiplayer Start Error</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=381&amp;sid=8495bc2ae0dd841688b43c14c8513919">Nameroc</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1900</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Feb 13, 2006 7:17 am<br /><a href="profile.php?mode=viewprofile&amp;u=381&amp;sid=8495bc2ae0dd841688b43c14c8513919">Nameroc</a> <a href="viewtopic.php?p=444&amp;sid=8495bc2ae0dd841688b43c14c8513919#444"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=4&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">News</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=75&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Any news...</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=54&amp;sid=8495bc2ae0dd841688b43c14c8513919">---</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1648</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Wed Dec 14, 2005 2:14 pm<br /><a href="profile.php?mode=viewprofile&amp;u=54&amp;sid=8495bc2ae0dd841688b43c14c8513919">---</a> <a href="viewtopic.php?p=317&amp;sid=8495bc2ae0dd841688b43c14c8513919#317"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=72&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">German armored cars... could you fix these?</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=63&amp;sid=8495bc2ae0dd841688b43c14c8513919">Sandfox</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">2004</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Tue Nov 29, 2005 1:37 am<br /><a href="profile.php?mode=viewprofile&amp;u=63&amp;sid=8495bc2ae0dd841688b43c14c8513919">Sandfox</a> <a href="viewtopic.php?p=306&amp;sid=8495bc2ae0dd841688b43c14c8513919#306"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=7&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Multiplayer issues</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=55&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">error when loading</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=113&amp;sid=8495bc2ae0dd841688b43c14c8513919">paksdm</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1607</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Fri Oct 07, 2005 4:55 am<br /><a href="profile.php?mode=viewprofile&amp;u=113&amp;sid=8495bc2ae0dd841688b43c14c8513919">paksdm</a> <a href="viewtopic.php?p=213&amp;sid=8495bc2ae0dd841688b43c14c8513919#213"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=9&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Modding and Customization</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=47&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">Please!</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=55&amp;sid=8495bc2ae0dd841688b43c14c8513919">alfonso_roque</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1934</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Sun Sep 25, 2005 9:44 am<br /><a href="profile.php?mode=viewprofile&amp;u=55&amp;sid=8495bc2ae0dd841688b43c14c8513919">alfonso_roque</a> <a href="viewtopic.php?p=175&amp;sid=8495bc2ae0dd841688b43c14c8513919#175"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="row1" align="center" valign="middle"><img src="templates/subSilver/images/folder.gif" width="19" height="18" alt="No new posts" title="No new posts" /></td>
+	<td class="row1"><span class="forumlink"><a href="viewforum.php?f=2&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="forumlink">Panzers Phase 2</a></span></td>
+	<td class="row2"><span class="topictitle"><a href="viewtopic.php?t=39&amp;highlight=&amp;sid=8495bc2ae0dd841688b43c14c8513919" class="topictitle">possible bug, unit-shortcuts</a></span><br /><span class="gensmall"></span></td>
+	<td class="row1" align="center" valign="middle"><span class="name"><a href="profile.php?mode=viewprofile&amp;u=88&amp;sid=8495bc2ae0dd841688b43c14c8513919">Imiro</a></span></td>
+	<td class="row2" align="center" valign="middle"><span class="postdetails">0</span></td>
+	<td class="row1" align="center" valign="middle"><span class="postdetails">1803</span></td>
+	<td class="row2" align="center" valign="middle" nowrap="nowrap"><span class="postdetails">Mon Sep 19, 2005 2:57 am<br /><a href="profile.php?mode=viewprofile&amp;u=88&amp;sid=8495bc2ae0dd841688b43c14c8513919">Imiro</a> <a href="viewtopic.php?p=136&amp;sid=8495bc2ae0dd841688b43c14c8513919#136"><img src="templates/subSilver/images/icon_latest_reply.gif" alt="View latest post" title="View latest post" border="0" /></a></span></td>
+  </tr>
+  <tr>
+	<td class="catBottom" colspan="7" height="28" valign="middle">&nbsp; </td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center" cellpadding="2">
+  <tr>
+	<td align="left" valign="top"><span class="nav">Page <b>1</b> of <b>1</b></span></td>
+	<td align="right" valign="top" nowrap="nowrap"><span class="nav"></span><br /><span class="gensmall">All times are GMT</span></td>
+  </tr>
+</table>
+
+<table width="100%" cellspacing="2" border="0" align="center">
+  <tr>
+	<td valign="top" align="right">
+<form method="get" name="jumpbox" action="viewforum.php?sid=8495bc2ae0dd841688b43c14c8513919" onSubmit="if(document.jumpbox.f.value == -1){return false;}"><table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Jump to:&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ forms['jumpbox'].submit() }"><option value="-1">Select a forum</option><option value="-1">&nbsp;</option><option value="-1">General</option><option value="-1">----------------</option><option value="4">News</option><option value="8">Stormregion General</option><option value="12">Hungarian topics - Magyar nyelv&#369; témakörök</option><option value="14">Off Topic</option><option value="-1">&nbsp;</option><option value="-1">Stormregion Games</option><option value="-1">----------------</option><option value="1">S.W.I.N.E.</option><option value="3">Panzers Phase 1</option><option value="2">Panzers Phase 2</option><option value="16">Codename Panzers: Cold War</option><option value="5">Rush for Berlin</option><option value="-1">&nbsp;</option><option value="-1">Support</option><option value="-1">----------------</option><option value="6">Single Player issues</option><option value="7">Multiplayer issues</option><option value="13">The Clan Plan </option><option value="9">Modding and Customization</option></select><input type="hidden" name="sid" value="8495bc2ae0dd841688b43c14c8513919" />&nbsp;<input type="submit" value="Go" class="liteoption" /></span></td>
+	</tr>
+</table></form>
+
+</td>
+  </tr>
+</table>
+
+
+<div align="center"><span class="copyright"><br /><br />
+<!--
+	We request you retain the full copyright notice below including the link to www.phpbb.com.
+	This not only gives respect to the large amount of time given freely by the developers
+	but also helps build interest, traffic and use of phpBB 2.0. If you cannot (for good
+	reason) retain the full copyright we request you at least leave in place the
+	Powered by phpBB line, with phpBB linked to www.phpbb.com. If you refuse
+	to include even this then support on our forums may be affected.
+
+	The phpBB Group : 2002
+// -->
+Powered by <a href="http://www.phpbb.com/" target="_phpbb" class="copyright">phpBB</a> &copy; 2001, 2005 phpBB Group<br /></span></div>
+		</td>
+	</tr>
+</table>
+
+</body>
+</html>
+
